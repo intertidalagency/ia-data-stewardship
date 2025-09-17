@@ -82,23 +82,23 @@
   {
     "objectID": "glossary.html",
     "href": "glossary.html",
-    "title": "Appendix A — Data stewardship glossary",
+    "title": "Data Stewardship Glossary",
     "section": "",
     "text": "Calibrated Data\nThis glossary is meant to serve as a useful reference. It is an evergreen document and will be updated and added to as often as necessary.\nTime series data that has been processed using software to apply instrument calibration (to compare acoustic measurements to a known standard). From PAM Data Mgmt Best Practices.",
     "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Data stewardship glossary</span>"
+      "Resources",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Stewardship Glossary</span>"
     ]
   },
   {
     "objectID": "glossary.html#other-similar-glossaries",
     "href": "glossary.html#other-similar-glossaries",
-    "title": "Appendix A — Data stewardship glossary",
+    "title": "Data Stewardship Glossary",
     "section": "Other Similar Glossaries",
     "text": "Other Similar Glossaries\n\nFAIR Island",
     "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Data stewardship glossary</span>"
+      "Resources",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Stewardship Glossary</span>"
     ]
   }
 ]

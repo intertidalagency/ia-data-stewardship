@@ -1,5 +1,5 @@
 ---
-title: "Data stewardship glossary"
+title: "Data Stewardship Glossary"
 date: 2025-09-22
 ---
 
