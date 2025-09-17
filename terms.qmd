@@ -1,0 +1,50 @@
+---
+title: "Key terms and principles"
+format: html
+---
+
+*A more expansive list of terms can be found in our [glossary](glossary.qmd).*
+*If you would like to suggest a term to be added to the glossary, please make*
+*an issue in the [GitHub repository](https://github.com/intertidalagency/ia-data-stewardship/issues).*
+
+  
+
+### Metadata
+
+*Information that describes the data*  
+
+This is the information someone else needs to understand and reuse your data.  It
+might describe a sensor deployment, a tag deployment, definitions of column names, 
+units in which variables were measured, or project information.  
+
+### FAIR principles
+
+*Findable, Accessible, Interoperable, Reusable*  
+
+These principles were first published in [Scientific Data in 2016](https://doi.org/10.1038/sdata.2016.18), and have been widely adopted by many organizations and people who work with data.  How the principles are put into action
+and measured are topics of active research and development.  
+
+### Licensing
+
+*Defines what a user is allowed to do with a dataset*  
+
+Licensing makes the terms of reuse explicit to the user.  Check with your organization
+or institution and any other data owners to assist in choosing a license.  Choose 
+the least restrictive license to ensure the widest possible reuse of the data.  
+
+### PID
+
+*Persistent identifier, e.g. ORCiD, DOI, ROR*  
+
+These identifiers help disambiguate people, research products, and organizations.
+They support getting credit for your work or funding, and finding digital objects.  
+
+
+
+
+ 
+
+
+
+
+

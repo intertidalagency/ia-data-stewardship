@@ -1,0 +1,104 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Stewardship for ocean data",
+    "section": "",
+    "text": "What is it?\nThe actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\nWhy does it matter?\n\nenables faster, better science\ngets you credit for your data\npreserves knowledge for the future",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Data stewardship</span>"
+    ]
+  },
+  {
+    "objectID": "terms.html",
+    "href": "terms.html",
+    "title": "Key terms and principles",
+    "section": "",
+    "text": "A more expansive list of terms can be found in our glossary. If you would like to suggest a term to be added to the glossary, please make an issue in the GitHub repository.\n\nMetadata\nInformation that describes the data\nThis is the information someone else needs to understand and reuse your data. It might describe a sensor deployment, a tag deployment, definitions of column names, units in which variables were measured, or project information.\n\n\nFAIR principles\nFindable, Accessible, Interoperable, Reusable\nThese principles were first published in Scientific Data in 2016, and have been widely adopted by many organizations and people who work with data. How the principles are put into action and measured are topics of active research and development.\n\n\nLicensing\nDefines what a user is allowed to do with a dataset\nLicensing makes the terms of reuse explicit to the user. Check with your organization or institution and any other data owners to assist in choosing a license. Choose the least restrictive license to ensure the widest possible reuse of the data.\n\n\nPID\nPersistent identifier, e.g. ORCiD, DOI, ROR\nThese identifiers help disambiguate people, research products, and organizations. They support getting credit for your work or funding, and finding digital objects.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Key terms and principles</span>"
+    ]
+  },
+  {
+    "objectID": "data-lifecycle.html",
+    "href": "data-lifecycle.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "data-lifecycle.html#running-code",
+    "href": "data-lifecycle.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "data-literacy.html",
+    "href": "data-literacy.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "data-literacy.html#running-code",
+    "href": "data-literacy.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "data-discovery.html",
+    "href": "data-discovery.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "data-discovery.html#running-code",
+    "href": "data-discovery.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Untitled</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Appendix A — Data stewardship glossary",
+    "section": "",
+    "text": "Calibrated Data\nThis glossary is meant to serve as a useful reference. It is an evergreen document and will be updated and added to as often as necessary.\nTime series data that has been processed using software to apply instrument calibration (to compare acoustic measurements to a known standard). From PAM Data Mgmt Best Practices.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Data stewardship glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#other-similar-glossaries",
+    "href": "glossary.html#other-similar-glossaries",
+    "title": "Appendix A — Data stewardship glossary",
+    "section": "Other Similar Glossaries",
+    "text": "Other Similar Glossaries\n\nFAIR Island",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Data stewardship glossary</span>"
+    ]
+  }
+]

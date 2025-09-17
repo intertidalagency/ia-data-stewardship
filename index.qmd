@@ -1,0 +1,17 @@
+---
+title: "Data stewardship"
+format: html
+---
+
+### What is it?
+
+*The actions involved in supporting, promoting, and guiding the use and reuse of*
+*data throughout the data lifecycle.*
+
+
+### Why does it matter? 
+
+ - enables faster, better science
+ - gets you credit for your data
+ - preserves knowledge for the future
+

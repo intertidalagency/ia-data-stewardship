@@ -1,0 +1,105 @@
+# Project Configuration
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - assets/**
+
+# Book Configuration
+book:
+  title: "Data Stewardship for ocean data"
+  favicon: img/Intertidal-ProfilePic-Aqua-Bold.png
+  
+  # Navigation
+  chapters: 
+    - index.qmd
+    - terms.qmd
+    - data-lifecycle.qmd
+    - data-literacy.qmd
+    - data-discovery.qmd
+  appendices: 
+    - glossary.qmd
+  page-navigation: false
+  
+  # Header/Navigation Bar
+  navbar: 
+    title: false
+    background: "#034969"
+    logo-href: https://intertidal.agency/
+    # logo: img/Intertidal_PrimaryLogo_Bold_White.png
+  
+  # Sidebar Configuration
+  sidebar:
+    style: floating
+    type: light
+    background: "#034969"
+    alignment: left
+    border: false
+  
+  # Search
+  search: 
+    location: sidebar
+    type: textbox
+  
+  # Footer
+  page-footer: 
+    left: <a href="https://www.intertidalagency.org/"><img src="img/Intertidal_PrimaryLogo_Bold_White.png" width="105"></a>
+    center: "Content licensed CC-BY 4.0, Intertidal Agency"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/intertidal-agency/
+      - icon: github
+        href: https://github.com/intertidalagency/ia-data-stewardship
+    background: "#0E7272"
+
+# HTML Output Format
+format:
+  html:
+    # Theme and Styling
+    theme:
+      - default
+      - custom.scss
+    css: styles.css
+    backgroundcolor: "#034969"
+    fontcolor: "#ffffff"
+    fontsize: 1.2rem
+    
+    # Layout and Grid
+    page-layout: article
+    max-width: 900px
+    
+    # Content Formatting
+    out-width: "80%"
+    fig-align: center
+    number-sections: false
+    lightbox: true
+
+    # Table of Contents
+    toc: true
+    toc-location: left
+    toc-title: ""
+    toc-depth: 4
+    
+    # Technical Settings
+    html-math-method: mathjax
+    html-table-processing: none
+    author-meta: "Intertidal Agency"
+    
+# Appendices
+appendices:
+  title: ""
+
+# Execution Settings
+execute:
+  freeze: auto
+
+# Commented Authors Section (for future use)
+# authors:
+#   - name: Rachael Blake
+#     orcid: 0000-0003-0847-9100
+#     affiliations: 
+#       - name: Intertidal Agency
+#   - name: Kate Wing
+#     orcid: 0009-0001-0904-2886
+#     affiliations: 
+#       - name: Intertidal Agency
