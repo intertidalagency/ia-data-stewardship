@@ -20,6 +20,7 @@ book:
     - part: "Resources"
       chapters: 
         - glossary.qmd
+        - lifecycle-template.qmd
   page-navigation: false
   
   # Header/Navigation Bar

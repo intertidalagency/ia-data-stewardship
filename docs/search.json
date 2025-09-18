@@ -100,5 +100,16 @@
       "Resources",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Stewardship Glossary</span>"
     ]
+  },
+  {
+    "objectID": "lifecycle-template.html",
+    "href": "lifecycle-template.html",
+    "title": "Data Lifecycle Template",
+    "section": "",
+    "text": "This image is courtesy of\nRDMkit: The ELIXIR Research Data Management toolkit for Life Sciences\nURL: https://rdmkit.elixir-europe.org\n\n\n\nData lifecycle (Click to enlarge)",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Lifecycle Template</span>"
+    ]
   }
 ]
