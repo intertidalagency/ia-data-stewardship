@@ -32,54 +32,25 @@
     ]
   },
   {
-    "objectID": "data-lifecycle.html#running-code",
-    "href": "data-lifecycle.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Untitled</span>"
-    ]
-  },
-  {
     "objectID": "data-literacy.html",
     "href": "data-literacy.html",
     "title": "Data Literacy",
     "section": "",
-    "text": "Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.\nData stewardship requires practitioners to be data literate, and includes three key components:\n\nfinding data\nevaluating data and metadata\nunderstanding licenses and reuse terms \n\n\nFinding data\nThe first step to finding data is knowing what you’re searching for. It can be helpful to list the characteristics the data must fulfill in order to be useful in your project or for your research question.\nThis article includes eleven tips for finding data.\nGregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. https://doi.org/10.1371/journal.pcbi.1006038 \n\n\nEvaluating data\n\nCheck under which terms and conditions the data is shared\nCheck whether there is sufficient metadata to enable data reuse\nAssess the quality of the data - Does it come from a trusted source, and does it adhere to a standard?\nHas the data been ethically collected and shared?\nDoes the data include a persistent identifier (e.g. DOI) so you can properly give credit to the data creators? \n\n\n\nUnderstanding licenses\nFrequently used licenses for data, figures, maps, articles, and other digital outputs include:\n\nCC0\n\nCC-BY\n\nAlso see the Creative Commons license chooser tool.\nCommon licenses for code and software include:\n\nMIT\n\nApache\n\nCDDL\n\nGPL\n\nMore information about licenses for code and software can be found at the Open Source Initiative.",
+    "text": "Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.\nData stewardship requires practitioners to be data literate, and includes three key components:\n\nfinding data\nevaluating data and metadata\nunderstanding licenses and reuse terms \n\n\nFinding data\nThe first step to finding data is knowing what you’re searching for. It can be helpful to list the characteristics the data must fulfill in order to be useful in your project or for your research question.\nThis article includes eleven tips for finding data.\nGregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. https://doi.org/10.1371/journal.pcbi.1006038 \n\n\nEvaluating data\n\nCheck under which terms and conditions the data is shared\nCheck whether there is sufficient metadata to enable data reuse\nAssess the quality of the data - Does it come from a trusted source, and does it adhere to a standard?\nHas the data been ethically collected and shared?\nDoes the data include a persistent identifier (e.g. DOI) so you can properly give credit to the data creators? \n\n\n\nUnderstanding licenses\nFrequently used licenses for data, figures, maps, articles, and other research outputs include:\n\nCC0\n\nCC-BY\n\nAlso see the Creative Commons license chooser tool.\nCommon licenses for code and software include:\n\nMIT\n\nApache\n\nCDDL\n\nGPL\n\nMore information about licenses for code and software can be found at the Open Source Initiative.",
     "crumbs": [
       "Data lifecycle, literacy, & discovery",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Literacy</span>"
     ]
   },
   {
-    "objectID": "data-literacy.html#running-code",
-    "href": "data-literacy.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Untitled</span>"
-    ]
-  },
-  {
     "objectID": "data-discovery.html",
     "href": "data-discovery.html",
-    "title": "Untitled",
+    "title": "Data Discovery",
     "section": "",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "text": "Repositories\nRepositories provide the infrastructure for the long-term storage and access to data. Repositories may store data from one domain, suite of species, or funder (e.g.BCO-DMO, OBIS-SEAMAP, Pangaea), or they can be general (e.g. Zenodo).\n\n\n\nFederations of repositories\nRepositories federate in order to increase discoverability of the data they hold. This integration allows a user to search and view data from different sources without moving, copying, or consolidating the data. Examples include DataONE and Ocean Info Hub. re3data is a federation that helps you discover which repository is suitable for publishing or discovering data.\n\n\n\n(meta)Data catalogs\nData and metadata catalogs (these terms are often used to mean the same thing) collate metadata in one place to enhance discovery of records housed in disparate locations or from disparate sources. One example is the IOOS Data Catalog.\n\n\n\nData brokers & servers\nData may be discoverable from brokers or servers, whose primary function is to subset, transform, reformat, and serve up data specific to a user’s query. These are not repositories themselves, but can be used in conjunction with repositories. Examples include NOAA’s ERDDAP platform, ESRI Web Map Services, and Google Earth Engine.\n\n\n\nDatabases\nThese compilations of data do not keep individual records separate, and may not always store metadata with data. However, they can be important places that data is stored in some research communities. Examples include the Northwest Atlantic Seabird Catalog, and the North American Bat Monitoring Program (NABat).\n\n\n\nGoogle Dataset Search\nhttps://datasetsearch.research.google.com/\n\n\n\nSomeone you know",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Untitled</span>"
-    ]
-  },
-  {
-    "objectID": "data-discovery.html#running-code",
-    "href": "data-discovery.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Untitled</span>"
+      "Data lifecycle, literacy, & discovery",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Discovery</span>"
     ]
   },
   {

@@ -3,6 +3,48 @@ title: "Data Discovery"
 format: html
 ---
 
+### Repositories
+  
+Repositories provide the infrastructure for the long-term storage and access to data.
+Repositories may store data from one domain, suite of species, or funder (e.g.[BCO-DMO](https://www.bco-dmo.org/), [OBIS-SEAMAP](https://seamap.env.duke.edu/), [Pangaea](https://pangaea.de/)), or they can be general (e.g. [Zenodo](https://zenodo.org/)).  
+
+<br> 
+
+### Federations of repositories
+  
+Repositories federate in order to increase discoverability of the data they hold.  This
+integration allows a user to search and view data from different sources without
+moving, copying, or consolidating the data.  Examples include [DataONE](https://www.dataone.org/) and [Ocean Info Hub](https://oceaninfohub.org/).  [re3data](https://www.re3data.org/) is a federation that helps you discover which repository is suitable for publishing or discovering data.  
+
+<br> 
+
+### (meta)Data catalogs
+  
+Data and metadata catalogs (these terms are often used to mean the same thing) collate metadata in one place to enhance discovery of records housed in disparate locations or from disparate sources.  One example is the [IOOS Data Catalog](https://data.ioos.us/).  
+
+<br> 
+
+### Data brokers & servers
+  
+Data may be discoverable from brokers or servers, whose primary function is to subset, transform, reformat, and serve up data specific to a user's query.  These are not repositories themselves, but can be used in conjunction with repositories.  Examples include [NOAA's ERDDAP platform](https://coastwatch.pfeg.noaa.gov/erddap/index.html), ESRI Web Map Services, and Google Earth Engine.  
+
+<br> 
 
 
+### Databases
+  
+These compilations of data do not keep individual records separate, and may not always store metadata with data.  However, they can be important places that data is stored in some research communities.  Examples include the Northwest Atlantic Seabird Catalog, and the [North American Bat Monitoring Program (NABat)](https://www.nabatmonitoring.org/).  
+
+<br> 
+
+### Google Dataset Search  
+  
+[https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)  
+  
+<br>  
+
+### Someone you know
+
+![](img/zip-exchange.svg){width="50%" fig-alt="Sharing a zip file"}
+  
 

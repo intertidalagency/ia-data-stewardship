@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-2d6ae9b8692a0a20a237bfb67639571c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -167,7 +170,19 @@ ul.task-list li input[type="checkbox"] {
   </li>
     </ul>
     </div>
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#repositories" id="toc-repositories" class="nav-link active" data-scroll-target="#repositories">Repositories</a></li>
+  <li><a href="#federations-of-repositories" id="toc-federations-of-repositories" class="nav-link" data-scroll-target="#federations-of-repositories">Federations of repositories</a></li>
+  <li><a href="#metadata-catalogs" id="toc-metadata-catalogs" class="nav-link" data-scroll-target="#metadata-catalogs">(meta)Data catalogs</a></li>
+  <li><a href="#data-brokers-servers" id="toc-data-brokers-servers" class="nav-link" data-scroll-target="#data-brokers-servers">Data brokers &amp; servers</a></li>
+  <li><a href="#databases" id="toc-databases" class="nav-link" data-scroll-target="#databases">Databases</a></li>
+  <li><a href="#google-dataset-search" id="toc-google-dataset-search" class="nav-link" data-scroll-target="#google-dataset-search">Google Dataset Search</a></li>
+  <li><a href="#someone-you-know" id="toc-someone-you-know" class="nav-link" data-scroll-target="#someone-you-know">Someone you know</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -195,8 +210,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="repositories" class="level3">
+<h3 class="anchored" data-anchor-id="repositories">Repositories</h3>
+<p>Repositories provide the infrastructure for the long-term storage and access to data. Repositories may store data from one domain, suite of species, or funder (e.g.<a href="https://www.bco-dmo.org/">BCO-DMO</a>, <a href="https://seamap.env.duke.edu/">OBIS-SEAMAP</a>, <a href="https://pangaea.de/">Pangaea</a>), or they can be general (e.g.&nbsp;<a href="https://zenodo.org/">Zenodo</a>).</p>
+<p><br></p>
+</section>
+<section id="federations-of-repositories" class="level3">
+<h3 class="anchored" data-anchor-id="federations-of-repositories">Federations of repositories</h3>
+<p>Repositories federate in order to increase discoverability of the data they hold. This integration allows a user to search and view data from different sources without moving, copying, or consolidating the data. Examples include <a href="https://www.dataone.org/">DataONE</a> and <a href="https://oceaninfohub.org/">Ocean Info Hub</a>. <a href="https://www.re3data.org/">re3data</a> is a federation that helps you discover which repository is suitable for publishing or discovering data.</p>
+<p><br></p>
+</section>
+<section id="metadata-catalogs" class="level3">
+<h3 class="anchored" data-anchor-id="metadata-catalogs">(meta)Data catalogs</h3>
+<p>Data and metadata catalogs (these terms are often used to mean the same thing) collate metadata in one place to enhance discovery of records housed in disparate locations or from disparate sources. One example is the <a href="https://data.ioos.us/">IOOS Data Catalog</a>.</p>
+<p><br></p>
+</section>
+<section id="data-brokers-servers" class="level3">
+<h3 class="anchored" data-anchor-id="data-brokers-servers">Data brokers &amp; servers</h3>
+<p>Data may be discoverable from brokers or servers, whose primary function is to subset, transform, reformat, and serve up data specific to a user’s query. These are not repositories themselves, but can be used in conjunction with repositories. Examples include <a href="https://coastwatch.pfeg.noaa.gov/erddap/index.html">NOAA’s ERDDAP platform</a>, ESRI Web Map Services, and Google Earth Engine.</p>
+<p><br></p>
+</section>
+<section id="databases" class="level3">
+<h3 class="anchored" data-anchor-id="databases">Databases</h3>
+<p>These compilations of data do not keep individual records separate, and may not always store metadata with data. However, they can be important places that data is stored in some research communities. Examples include the Northwest Atlantic Seabird Catalog, and the <a href="https://www.nabatmonitoring.org/">North American Bat Monitoring Program (NABat)</a>.</p>
+<p><br></p>
+</section>
+<section id="google-dataset-search" class="level3">
+<h3 class="anchored" data-anchor-id="google-dataset-search">Google Dataset Search</h3>
+<p><a href="https://datasetsearch.research.google.com/">https://datasetsearch.research.google.com/</a></p>
+<p><br></p>
+</section>
+<section id="someone-you-know" class="level3">
+<h3 class="anchored" data-anchor-id="someone-you-know">Someone you know</h3>
+<p><a href="img/zip-exchange.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/zip-exchange.svg" class="img-fluid" style="width:50.0%" alt="Sharing a zip file"></a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -625,6 +674,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
