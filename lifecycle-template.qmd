@@ -1,0 +1,14 @@
+---
+title: "Data Lifecycle Template"
+---
+
+This image is courtesy of  
+
+RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences  
+URL: [https://rdmkit.elixir-europe.org](https://rdmkit.elixir-europe.org)
+  
+  
+  
+![Data lifecycle (*Click to enlarge*)](img/rdmkit-data-lifecycle.svg){width="80%" fig-alt="Diagram showing the data lifecycle"}
+
+

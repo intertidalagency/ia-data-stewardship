@@ -1,25 +1,57 @@
 ---
-title: "Untitled"
+title: "Data Literacy"
 format: html
 ---
 
-## Quarto
+*Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.*
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+Data stewardship requires practitioners to be data literate, and includes three key components: 
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+ - finding data
+ - evaluating data and metadata
+ - understanding licenses and reuse terms
+<br> 
+ 
+### Finding data
+  
+The first step to finding data is knowing what you're searching for.  It can be
+helpful to list the characteristics the data must fulfill in order to be useful
+in your project or for your research question.  
+  
+This article includes eleven tips for finding data.  
+*Gregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. [https://doi.org/10.1371/journal.pcbi.1006038](https://doi.org/10.1371/journal.pcbi.1006038)*
+<br>
+      
+### Evaluating data
+ 
+ - Check under which terms and conditions the data is shared
+ - Check whether there is sufficient metadata to enable data reuse
+ - Assess the quality of the data - Does it come from a trusted source, and does
+it adhere to a standard?
+ - Has the data been ethically collected and shared?
+ - Does the data include a persistent identifier (e.g. DOI) so  you can properly
+give credit to the data creators?
+<br>
+   
+### Understanding licenses
+ 
+Frequently used licenses for data, figures, maps, articles, and other research outputs include:  
 
-```{r}
-1 + 1
-```
+ - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)  
+ - [CC-BY](https://creativecommons.org/licenses/by/4.0/)  
+  
+Also see the Creative Commons [license chooser tool](https://creativecommons.org/choose/).
+  
+    
+Common licenses for code and software include: 
 
-You can add options to executable code like this 
+ - MIT  
+ - Apache  
+ - CDDL  
+ - GPL  
 
-```{r}
-#| echo: false
-2 * 2
-```
+More information about licenses for code and software can be found at the [Open Source Initiative](https://opensource.org/).
+ 
 
-The `echo: false` option disables the printing of code (only output is displayed).
+

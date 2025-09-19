@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Data Stewardship for ocean data",
     "section": "",
-    "text": "What is it?\nThe actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\nWhy does it matter?\n\nenables faster, better science\ngets you credit for your data\npreserves knowledge for the future",
+    "text": "This site contains information and resources about the principles and practices of stewarding ocean data. The content was delivered as three sessions for the Operational Oceanography students at Rutgers University in fall 2025/winter 2026.\n\nWhat is data stewardship?\nIt is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\nWhy does it matter?\n\nenables faster, better science\nconnects your data to new insights\ngets you credit for your data work\npreserves knowledge for the future",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Data stewardship</span>"
     ]
@@ -14,19 +14,21 @@
     "href": "terms.html",
     "title": "Key terms and principles",
     "section": "",
-    "text": "A more expansive list of terms can be found in our glossary. If you would like to suggest a term to be added to the glossary, please make an issue in the GitHub repository.\n\nMetadata\nInformation that describes the data\nThis is the information someone else needs to understand and reuse your data. It might describe a sensor deployment, a tag deployment, definitions of column names, units in which variables were measured, or project information.\n\n\nFAIR principles\nFindable, Accessible, Interoperable, Reusable\nThese principles were first published in Scientific Data in 2016, and have been widely adopted by many organizations and people who work with data. How the principles are put into action and measured are topics of active research and development.\n\n\nLicensing\nDefines what a user is allowed to do with a dataset\nLicensing makes the terms of reuse explicit to the user. Check with your organization or institution and any other data owners to assist in choosing a license. Choose the least restrictive license to ensure the widest possible reuse of the data.\n\n\nPID\nPersistent identifier, e.g. ORCiD, DOI, ROR\nThese identifiers help disambiguate people, research products, and organizations. They support getting credit for your work or funding, and finding digital objects.",
+    "text": "A more expansive list of terms can be found in our glossary. If you would like to suggest a term to be added to the glossary, please make an issue in the GitHub repository.\n\nMetadata\nInformation that describes the data\nThis is the information someone else needs to understand and reuse your data. It might describe a sensor deployment, a tag deployment, definitions of column names, units in which variables were measured, or project information.\nSome types of metadata used in ocean science include EML, ISO19115, and Darwin Core.\n\n\nFAIR principles\nFindable, Accessible, Interoperable, Reusable\nThese principles were first published in Scientific Data in 2016, and have been widely adopted by many organizations and people who work with data. How the principles are put into action and measured are topics of active research and development.\nA good place to learn more is the GO FAIR Foundation.\n\n\nLicensing\nDefines what a user is allowed to do with a dataset\nLicensing makes the terms of reuse explicit to the user. Check with your organization or institution and any other data owners to assist in choosing a license. Choose the least restrictive license to ensure the widest possible reuse of the data.\nInformation about Creative Commons licences and their license chooser tool. Information about licenses for code and software at the Open Source Initiative.\n\n\nPID\nPersistent identifier, e.g. ORCiD, DOI, ROR\nThese identifiers help disambiguate people, research products, and organizations. They support getting credit for your work or funding, and finding digital objects.\nAn overview of types of PIDs can be found here.\n\n\nDMSP (aka DMP and other related terms)\nData Management & Sharing Plan\nThis document describes a project’s outputs; how they will be managed and shared.\nOne tool for creating these plans is DMPTool.",
     "crumbs": [
+      "Data lifecycle, literacy, & discovery",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Key terms and principles</span>"
     ]
   },
   {
     "objectID": "data-lifecycle.html",
     "href": "data-lifecycle.html",
-    "title": "Untitled",
+    "title": "Data Lifecycle",
     "section": "",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "text": "These are the stages data often goes through during a research project, but they are also how we think about data going from idea to impactful information.\n\n\n\nData lifecycle (Click to enlarge)\n\n\nAt each stage of the data lifecycle, we’ve highlighted some data stewardship actions that can be taken. These are not comprehensive though.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Untitled</span>"
+      "Data lifecycle, literacy, & discovery",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Lifecycle</span>"
     ]
   },
   {
@@ -42,11 +44,12 @@
   {
     "objectID": "data-literacy.html",
     "href": "data-literacy.html",
-    "title": "Untitled",
+    "title": "Data Literacy",
     "section": "",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "text": "Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.\nData stewardship requires practitioners to be data literate, and includes three key components:\n\nfinding data\nevaluating data and metadata\nunderstanding licenses and reuse terms \n\n\nFinding data\nThe first step to finding data is knowing what you’re searching for. It can be helpful to list the characteristics the data must fulfill in order to be useful in your project or for your research question.\nThis article includes eleven tips for finding data.\nGregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. https://doi.org/10.1371/journal.pcbi.1006038 \n\n\nEvaluating data\n\nCheck under which terms and conditions the data is shared\nCheck whether there is sufficient metadata to enable data reuse\nAssess the quality of the data - Does it come from a trusted source, and does it adhere to a standard?\nHas the data been ethically collected and shared?\nDoes the data include a persistent identifier (e.g. DOI) so you can properly give credit to the data creators? \n\n\n\nUnderstanding licenses\nFrequently used licenses for data, figures, maps, articles, and other digital outputs include:\n\nCC0\n\nCC-BY\n\nAlso see the Creative Commons license chooser tool.\nCommon licenses for code and software include:\n\nMIT\n\nApache\n\nCDDL\n\nGPL\n\nMore information about licenses for code and software can be found at the Open Source Initiative.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Untitled</span>"
+      "Data lifecycle, literacy, & discovery",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Literacy</span>"
     ]
   },
   {

@@ -8,7 +8,7 @@
 
 <meta name="author" content="Intertidal Agency">
 
-<title>Data Stewardship for ocean data</title>
+<title>Data Lifecycle Template – Data Stewardship for ocean data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-2d6ae9b8692a0a20a237bfb67639571c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -88,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">Data stewardship</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./glossary.html">Resources</a></li><li class="breadcrumb-item"><a href="./lifecycle-template.html"><span class="chapter-title">Data Lifecycle Template</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -110,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Data stewardship</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data stewardship</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -160,21 +163,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lifecycle-template.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Lifecycle Template</span></a>
+  <a href="./lifecycle-template.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Data Lifecycle Template</span></a>
   </div>
 </li>
       </ul>
   </li>
     </ul>
     </div>
-    <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#what-is-data-stewardship" id="toc-what-is-data-stewardship" class="nav-link active" data-scroll-target="#what-is-data-stewardship">What is data stewardship?</a></li>
-  <li><a href="#why-does-it-matter" id="toc-why-does-it-matter" class="nav-link" data-scroll-target="#why-does-it-matter">Why does it matter?</a></li>
-  </ul>
-</nav>
+    
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -183,9 +179,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./glossary.html">Resources</a></li><li class="breadcrumb-item"><a href="./lifecycle-template.html"><span class="chapter-title">Data Lifecycle Template</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Data Stewardship for ocean data</h1>
+<h1 class="title"><span class="chapter-title">Data Lifecycle Template</span></h1>
 </div>
 
 
@@ -202,22 +198,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This site contains information and resources about the principles and practices of stewarding ocean data. The content was delivered as three sessions for the Operational Oceanography students at Rutgers University in fall 2025/winter 2026.</p>
-<section id="what-is-data-stewardship" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-data-stewardship">What is data stewardship?</h3>
-<p><em>It is the actions involved in supporting, promoting, and guiding the use and reuse of</em> <em>data throughout the data lifecycle.</em></p>
-</section>
-<section id="why-does-it-matter" class="level3">
-<h3 class="anchored" data-anchor-id="why-does-it-matter">Why does it matter?</h3>
-<ul>
-<li>enables faster, better science</li>
-<li>connects your data to new insights</li>
-<li>gets you credit for your data work</li>
-<li>preserves knowledge for the future</li>
-</ul>
+<p>This image is courtesy of</p>
+<p>RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences<br>
+URL: <a href="https://rdmkit.elixir-europe.org">https://rdmkit.elixir-europe.org</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/rdmkit-data-lifecycle.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Data lifecycle (Click to enlarge)"><img src="img/rdmkit-data-lifecycle.svg" class="img-fluid figure-img" style="width:80.0%" alt="Diagram showing the data lifecycle"></a></p>
+<figcaption>Data lifecycle (<em>Click to enlarge</em>)</figcaption>
+</figure>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -646,6 +637,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

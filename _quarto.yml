@@ -13,10 +13,12 @@ book:
   # Navigation
   chapters: 
     - index.qmd
-    - terms.qmd
-    - data-lifecycle.qmd
-    - data-literacy.qmd
-    - data-discovery.qmd
+    - part: "Data lifecycle, literacy, & discovery"
+      chapters: 
+        - terms.qmd
+        - data-lifecycle.qmd
+        - data-literacy.qmd
+        - data-discovery.qmd
     - part: "Resources"
       chapters: 
         - glossary.qmd

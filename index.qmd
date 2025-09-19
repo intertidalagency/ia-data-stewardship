@@ -2,16 +2,21 @@
 title: "Data stewardship"
 format: html
 ---
+  
+This site contains information and resources about the principles and practices
+of stewarding ocean data.  The content was delivered as three sessions for the Operational Oceanography students at Rutgers University in fall 2025/winter 2026.  
+  
+  
+### What is data stewardship?
 
-### What is it?
-
-*The actions involved in supporting, promoting, and guiding the use and reuse of*
+*It is the actions involved in supporting, promoting, and guiding the use and reuse of*
 *data throughout the data lifecycle.*
 
 
 ### Why does it matter? 
 
  - enables faster, better science
- - gets you credit for your data
+ - connects your data to new insights
+ - gets you credit for your data work
  - preserves knowledge for the future
 

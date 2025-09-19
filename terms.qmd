@@ -15,7 +15,10 @@ format: html
 
 This is the information someone else needs to understand and reuse your data.  It
 might describe a sensor deployment, a tag deployment, definitions of column names, 
-units in which variables were measured, or project information.  
+units in which variables were measured, or project information. 
+
+Some types of metadata used in ocean science include [EML](https://eml.ecoinformatics.org/), [ISO19115](https://www.fgdc.gov/metadata/iso-standards), and [Darwin Core](https://dwc.tdwg.org/).  
+
 
 ### FAIR principles
 
@@ -23,6 +26,9 @@ units in which variables were measured, or project information.
 
 These principles were first published in [Scientific Data in 2016](https://doi.org/10.1038/sdata.2016.18), and have been widely adopted by many organizations and people who work with data.  How the principles are put into action
 and measured are topics of active research and development.  
+
+A good place to learn more is the [GO FAIR Foundation ](https://www.go-fair.org/fair-principles/).
+
 
 ### Licensing
 
@@ -32,6 +38,10 @@ Licensing makes the terms of reuse explicit to the user.  Check with your organi
 or institution and any other data owners to assist in choosing a license.  Choose 
 the least restrictive license to ensure the widest possible reuse of the data.  
 
+Information about [Creative Commons licences](https://creativecommons.org/share-your-work/cclicenses/) and their [license chooser tool](https://creativecommons.org/choose/).  Information about licenses for
+code and software at the [Open Source Initiative](https://opensource.org/).
+
+
 ### PID
 
 *Persistent identifier, e.g. ORCiD, DOI, ROR*  
@@ -39,12 +49,16 @@ the least restrictive license to ensure the widest possible reuse of the data.
 These identifiers help disambiguate people, research products, and organizations.
 They support getting credit for your work or funding, and finding digital objects.  
 
+An overview of types of PIDs can be found [here](https://www.osti.gov/pids/using-pids).  
 
 
-
+### DMSP (aka DMP and other related terms)
  
+*Data Management & Sharing Plan*
 
+This document describes a project's outputs; how they will be managed and shared.
 
+One tool for creating these plans is [DMPTool](http://DMPTool.org).
 
 
 
