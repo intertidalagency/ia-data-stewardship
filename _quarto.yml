@@ -13,7 +13,7 @@ book:
   # Navigation
   chapters: 
     - index.qmd
-    - part: "Data lifecycle, literacy, & discovery"
+    - part: "Session #1: Data lifecycle, literacy, & discovery"
       chapters: 
         - terms.qmd
         - data-lifecycle.qmd

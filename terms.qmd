@@ -7,7 +7,7 @@ format: html
 *If you would like to suggest a term to be added to the glossary, please make*
 *an issue in the [GitHub repository](https://github.com/intertidalagency/ia-data-stewardship/issues).*
 
-  
+<br>  
 
 ### Metadata
 
@@ -19,6 +19,7 @@ units in which variables were measured, or project information.
 
 Some types of metadata used in ocean science include [EML](https://eml.ecoinformatics.org/), [ISO19115](https://www.fgdc.gov/metadata/iso-standards), and [Darwin Core](https://dwc.tdwg.org/).  
 
+<br>
 
 ### FAIR principles
 
@@ -29,6 +30,7 @@ and measured are topics of active research and development.
 
 A good place to learn more is the [GO FAIR Foundation ](https://www.go-fair.org/fair-principles/).
 
+<br>
 
 ### Licensing
 
@@ -41,6 +43,7 @@ the least restrictive license to ensure the widest possible reuse of the data.
 Information about [Creative Commons licences](https://creativecommons.org/share-your-work/cclicenses/) and their [license chooser tool](https://creativecommons.org/choose/).  Information about licenses for
 code and software at the [Open Source Initiative](https://opensource.org/).
 
+<br>
 
 ### PID
 
@@ -51,6 +54,7 @@ They support getting credit for your work or funding, and finding digital object
 
 An overview of types of PIDs can be found [here](https://www.osti.gov/pids/using-pids).  
 
+<br>
 
 ### DMSP (aka DMP and other related terms)
  

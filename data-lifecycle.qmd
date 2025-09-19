@@ -6,9 +6,11 @@ format: html
 These are the stages data often goes through during a research project, but they
 are also how we think about data going from idea to impactful information.  
   
+<br>  
   
 ![Data lifecycle (*Click to enlarge*)](img/image-stewardship-data-lifecycle.svg){width="100%" fig-alt="Diagram showing the data lifecycle"}
   
+<br>  
   
 At each stage of the data lifecycle, we've highlighted some data stewardship actions
 that can be taken.  These are not comprehensive though.  

@@ -4,15 +4,17 @@ format: html
 ---
 
 *Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.*
-
-
+  
+<br>
+  
 Data stewardship requires practitioners to be data literate, and includes three key components: 
 
  - finding data
  - evaluating data and metadata
  - understanding licenses and reuse terms
+  
 <br> 
- 
+   
 ### Finding data
   
 The first step to finding data is knowing what you're searching for.  It can be
@@ -21,8 +23,9 @@ in your project or for your research question.
   
 This article includes eleven tips for finding data.  
 *Gregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. [https://doi.org/10.1371/journal.pcbi.1006038](https://doi.org/10.1371/journal.pcbi.1006038)*
+  
 <br>
-      
+        
 ### Evaluating data
  
  - Check under which terms and conditions the data is shared
@@ -32,8 +35,9 @@ it adhere to a standard?
  - Has the data been ethically collected and shared?
  - Does the data include a persistent identifier (e.g. DOI) so  you can properly
 give credit to the data creators?
+  
 <br>
-   
+  
 ### Understanding licenses
  
 Frequently used licenses for data, figures, maps, articles, and other research outputs include:  
@@ -43,7 +47,7 @@ Frequently used licenses for data, figures, maps, articles, and other research o
   
 Also see the Creative Commons [license chooser tool](https://creativecommons.org/choose/).
   
-    
+  
 Common licenses for code and software include: 
 
  - MIT  
