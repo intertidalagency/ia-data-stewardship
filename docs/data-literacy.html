@@ -41,7 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2d6ae9b8692a0a20a237bfb67639571c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-3b7e5befdad8f4ed502389e901ab7c3a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -137,11 +140,6 @@ ul.task-list li input[type="checkbox"] {
   <a href="./data-literacy.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Data Literacy</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./data-discovery.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Discovery</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -171,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#finding-data" id="toc-finding-data" class="nav-link active" data-scroll-target="#finding-data">Finding data</a></li>
+  <li><a href="#discovering-data" id="toc-discovering-data" class="nav-link active" data-scroll-target="#discovering-data">Discovering data</a></li>
   <li><a href="#evaluating-data" id="toc-evaluating-data" class="nav-link" data-scroll-target="#evaluating-data">Evaluating data</a></li>
   <li><a href="#understanding-licenses" id="toc-understanding-licenses" class="nav-link" data-scroll-target="#understanding-licenses">Understanding licenses</a></li>
   </ul>
@@ -203,20 +201,47 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.</em></p>
-<p><br></p>
+<p><em>Knowledge that enables understanding and communicating about data in appropriate and meaningful ways throughout the data lifecycle.</em> <br></p>
 <p>Data stewardship requires practitioners to be data literate, and includes three key components:</p>
 <ul>
-<li>finding data</li>
+<li>discovering data</li>
 <li>evaluating data and metadata</li>
 <li>understanding licenses and reuse terms</li>
 </ul>
 <p><br></p>
-<section id="finding-data" class="level3">
-<h3 class="anchored" data-anchor-id="finding-data">Finding data</h3>
+<section id="discovering-data" class="level3">
+<h3 class="anchored" data-anchor-id="discovering-data">Discovering data</h3>
 <p>The first step to finding data is knowing what you’re searching for. It can be helpful to list the characteristics the data must fulfill in order to be useful in your project or for your research question.</p>
 <p>This article includes eleven tips for finding data.<br>
 <em>Gregory K, Khalsa SJ, Michener WK, Psomopoulos FE, de Waard A, Wu M (2018) Eleven quick tips for finding research data. PLoS Comput Biol 14(4): e1006038. <a href="https://doi.org/10.1371/journal.pcbi.1006038">https://doi.org/10.1371/journal.pcbi.1006038</a></em></p>
+<p><br></p>
+<blockquote class="blockquote">
+<h4 id="repositories" class="anchored">Repositories</h4>
+<p>Repositories provide the infrastructure for the long-term storage and access to data. Repositories may store data from one domain, suite of species, or funder (e.g.<a href="https://www.bco-dmo.org/">BCO-DMO</a>, <a href="https://seamap.env.duke.edu/">OBIS-SEAMAP</a>, <a href="https://pangaea.de/">Pangaea</a>), or they can be general (e.g.&nbsp;<a href="https://zenodo.org/">Zenodo</a>).</p>
+<p><br></p>
+<h4 id="federations-of-repositories" class="anchored">Federations of repositories</h4>
+<p>Repositories federate in order to increase discoverability of the data they hold. This integration allows a user to search and view data from different sources without moving, copying, or consolidating the data. Examples include <a href="https://www.dataone.org/">DataONE</a> and <a href="https://oceaninfohub.org/">Ocean Info Hub</a>. <a href="https://www.re3data.org/">re3data</a> is a federation that helps you discover which repository is suitable for publishing or discovering data.</p>
+<p><br></p>
+<h4 id="metadata-catalogs" class="anchored">(meta)Data catalogs</h4>
+<p>Data and metadata catalogs (these terms are often used to mean the same thing) collate metadata in one place to enhance discovery of records housed in disparate locations or from disparate sources. One example is the <a href="https://data.ioos.us/">IOOS Data Catalog</a>.</p>
+<p><br></p>
+<h4 id="data-brokers-servers" class="anchored">Data brokers &amp; servers</h4>
+<p>Data may be discoverable from brokers or servers, whose primary function is to subset, transform, reformat, and serve up data specific to a user’s query. These are not repositories themselves, but can be used in conjunction with repositories. Examples include <a href="https://coastwatch.pfeg.noaa.gov/erddap/index.html">NOAA’s ERDDAP platform</a>, ESRI Web Map Services, and Google Earth Engine.</p>
+<p><br></p>
+<h4 id="databases" class="anchored">Databases</h4>
+<p>These compilations of data do not keep individual records separate, and may not always store metadata with data. However, they can be important places that data is stored in some research communities. Examples include the Northwest Atlantic Seabird Catalog, and the <a href="https://www.nabatmonitoring.org/">North American Bat Monitoring Program (NABat)</a>.</p>
+<p><br></p>
+<h4 id="google-dataset-search" class="anchored">Google Dataset Search</h4>
+<p><a href="https://datasetsearch.research.google.com/">https://datasetsearch.research.google.com/</a></p>
+<p><br></p>
+<h4 id="someone-you-know" class="anchored">Someone you know</h4>
+<p>Despite all the technology we now have, this is still an extremely common way of discovering data.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="img/zip-exchange.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/zip-exchange.svg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:30.0%" alt="Sharing a zip file"></a></p>
+</figure>
+</div>
+</blockquote>
 <p><br></p>
 </section>
 <section id="evaluating-data" class="level3">
@@ -232,14 +257,14 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="understanding-licenses" class="level3">
 <h3 class="anchored" data-anchor-id="understanding-licenses">Understanding licenses</h3>
-<p>Frequently used licenses for data, figures, maps, articles, and other research outputs include:</p>
+<p>Licenses for data, figures, maps, articles, and other research outputs that allow the most flexible reuse include:</p>
 <ul>
 <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a><br>
 </li>
 <li><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a></li>
 </ul>
-<p>Also see the Creative Commons <a href="https://creativecommons.org/choose/">license chooser tool</a>.</p>
-<p>Common licenses for code and software include:</p>
+<p>Click these links to go directly to the definitions of these licens from Creative Commons. Also see the Creative Commons <a href="https://creativecommons.org/choose/">license chooser tool</a>, which helps in choosing a license to apply to your data.</p>
+<p>Open licenses for code and software that allow the most reuse include:</p>
 <ul>
 <li>MIT<br>
 </li>
@@ -681,6 +706,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

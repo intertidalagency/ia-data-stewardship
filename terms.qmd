@@ -17,7 +17,7 @@ This is the information someone else needs to understand and reuse your data.  I
 might describe a sensor deployment, a tag deployment, definitions of column names, 
 units in which variables were measured, or project information. 
 
-Some types of metadata used in ocean science include [EML](https://eml.ecoinformatics.org/), [ISO19115](https://www.fgdc.gov/metadata/iso-standards), and [Darwin Core](https://dwc.tdwg.org/).  
+Some metadata standards used in ocean science include [EML](https://eml.ecoinformatics.org/), [ISO19115](https://www.fgdc.gov/metadata/iso-standards), and [Darwin Core](https://dwc.tdwg.org/).  
 
 <br>
 

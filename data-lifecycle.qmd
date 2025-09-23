@@ -13,6 +13,7 @@ are also how we think about data going from idea to impactful information.
 <br>  
   
 At each stage of the data lifecycle, we've highlighted some data stewardship actions
-that can be taken.  These are not comprehensive though.  
+that can be taken.  These are not comprehensive, rather, they are a jumping-off point
+to think about data stewardship practices in your own work.  
 
 

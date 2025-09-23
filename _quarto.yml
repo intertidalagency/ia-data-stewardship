@@ -18,7 +18,6 @@ book:
         - terms.qmd
         - data-lifecycle.qmd
         - data-literacy.qmd
-        - data-discovery.qmd
     - part: "Resources"
       chapters: 
         - glossary.qmd
