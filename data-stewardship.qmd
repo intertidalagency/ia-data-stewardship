@@ -11,7 +11,7 @@ format: html
 Slides
 ::::
 ::::{.commentbox-body}
-Link to the slides here [Data StewardshipLesson]()
+Link to the slides here [Data Stewardship Lesson]()
 ::::
 :::
  

@@ -30,16 +30,16 @@ book:
   
   # Header/Navigation Bar
   navbar: 
-    title: false
+    title: "  "
     background: "#034969"
     logo-href: https://intertidal.agency/
-    # logo: img/Intertidal_PrimaryLogo_Bold_White.png
+    logo: img/Intertidal_PrimaryLogo_Bold_White.png
   
   # Sidebar Configuration
   sidebar:
     style: floating
     type: light
-    background: "#034969"
+    background: "#F3EDE4"
     alignment: left
     border: false
   
@@ -67,8 +67,8 @@ format:
       - default
       - custom.scss
     css: styles.css
-    backgroundcolor: "#034969"
-    fontcolor: "#ffffff"
+    backgroundcolor: "#F3EDE4"
+    fontcolor: "#034969"
     fontsize: 1.2rem
     
     # Layout and Grid

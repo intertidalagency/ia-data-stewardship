@@ -16,6 +16,7 @@ main .quarto-figure img {
   margin: 0 auto;
 }
 
+
 /* ===== CONTACT SECTION ===== */
 /* Email obfuscation */
 .email-contact span[data-name]:after {
@@ -86,4 +87,45 @@ main .quarto-figure img {
 
 .footer-right a:hover {
   text-decoration: underline;
+}
+
+
+/* ===== TOC Font Colors ===== */
+
+/* sidebar TOC container */
+.book-toc, .sidebar, .sidebar .book-toc {
+  /* no background change here — only colors below */
+}
+
+/* TOC title (e.g., "Contents") */
+.book-toc .toc-title,
+.book-toc .toc-heading {
+  color: #034969 !important;
+}
+
+/* All TOC links */
+.book-toc .toc a,
+.sidebar .toc a {
+  color: #CF471F !important;
+}
+
+/* Hover state for links */
+.book-toc .toc a:hover,
+.sidebar .toc a:hover {
+  color: #30ACAE !important;
+}
+
+/* Active/current page link */
+.book-toc .toc li.current > a,
+.book-toc .toc .current a,
+.sidebar .toc li.current > a {
+  color: #30ACAE !important;
+  font-weight: 600;
+}
+
+/* Sub-level links (indented) */
+.book-toc .toc li ul li a,
+.sidebar .toc li ul li a {
+  color: #37474f !important;
+  font-size: 0.95em;
 }
