@@ -111,7 +111,7 @@
     "href": "metadata.html",
     "title": "Metadata",
     "section": "",
-    "text": "Metadata\n\nTypes\n\n\nStandards & Formats\n\n\nSlides\n\n\nThis is the link to the Metadata Lesson",
+    "text": "Types\n\n\nStandards & Formats\n\n\nSlides\n\n\nThis is the link to the Metadata Lesson",
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Metadata</span>"
@@ -131,44 +131,44 @@
   {
     "objectID": "additional-resources.html",
     "href": "additional-resources.html",
-    "title": "Additional Resources",
+    "title": "Additional Data Stewardship Resources",
     "section": "",
-    "text": "Additional Data Stewardship Resources",
+    "text": "List of resources here\n\nitem 1\nitem 2",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Additional Resources</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Data Stewardship Resources</span>"
     ]
   },
   {
     "objectID": "data-stewardship.html",
     "href": "data-stewardship.html",
-    "title": "data-stewardship",
+    "title": "Data Stewardship",
     "section": "",
-    "text": "Data Stewardship\n\n\nDefining your “why” for data stewardship\n\n\nSlides\n\n\nLink to the slides here Data StewardshipLesson",
+    "text": "Defining your “why” for data stewardship\n\n\nSlides\n\n\nLink to the slides here Data StewardshipLesson",
     "crumbs": [
       "Core Lessons",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>data-stewardship</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Stewardship</span>"
     ]
   },
   {
     "objectID": "data-principles-standards.html",
     "href": "data-principles-standards.html",
-    "title": "data-principles-standards",
+    "title": "Data Principles & Standards",
     "section": "",
-    "text": "FAIR\n\n\nCARE\n\n\nStandards\n\n\nSlides\n\n\nThis is the link to the Lesson",
+    "text": "FAIR",
     "crumbs": [
       "Core Lessons",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>data-principles-standards</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Principles & Standards</span>"
     ]
   },
   {
     "objectID": "data-licensing.html",
     "href": "data-licensing.html",
-    "title": "data-licensing",
+    "title": "Data Licensing",
     "section": "",
-    "text": "Data Licensing\n\n\nSlides\n\n\nThis is the link to the Data Licensing Lesson",
+    "text": "Text here about licensing.\n\n\nSlides\n\n\nThis is the link to the Data Licensing Lesson",
     "crumbs": [
       "Core Lessons",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>data-licensing</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Licensing</span>"
     ]
   },
   {
@@ -176,7 +176,7 @@
     "href": "publishing-repositories.html",
     "title": "Repositories",
     "section": "",
-    "text": "Repositories\n\nGeneralist\n\n\nSpecialist\n\n\nSlides\n\n\nThis is the link to the Data Repositories Lesson",
+    "text": "Publishing data\n\n\nGeneralist\n\n\nSpecialist\n\n\nSlides\n\n\nThis is the link to the Data Repositories Lesson",
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Repositories</span>"
@@ -185,12 +185,12 @@
   {
     "objectID": "sustainability.html",
     "href": "sustainability.html",
-    "title": "sustainability",
+    "title": "Long-term data stewardship",
     "section": "",
-    "text": "Planning for the unexpected",
+    "text": "Planning for the future",
     "crumbs": [
       "Core Lessons",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>sustainability</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Long-term data stewardship</span>"
     ]
   },
   {
@@ -202,6 +202,39 @@
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>sustainability</span>"
+    ]
+  },
+  {
+    "objectID": "data-principles-standards.html#care",
+    "href": "data-principles-standards.html#care",
+    "title": "Data Principles & Standards",
+    "section": "CARE",
+    "text": "CARE",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Principles & Standards</span>"
+    ]
+  },
+  {
+    "objectID": "data-principles-standards.html#standards",
+    "href": "data-principles-standards.html#standards",
+    "title": "Data Principles & Standards",
+    "section": "Standards",
+    "text": "Standards\n\n\nSlides\n\n\nThis is the link to the Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Principles & Standards</span>"
+    ]
+  },
+  {
+    "objectID": "sustainability.html#planning-for-the-future",
+    "href": "sustainability.html#planning-for-the-future",
+    "title": "Long-term data stewardship",
+    "section": "",
+    "text": "Slides\n\n\nThis is the link to the Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Long-term data stewardship</span>"
     ]
   }
 ]
