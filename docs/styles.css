@@ -92,40 +92,94 @@ main .quarto-figure img {
 
 /* ===== TOC Font Colors ===== */
 
-/* sidebar TOC container */
-.book-toc, .sidebar, .sidebar .book-toc {
-  /* no background change here — only colors below */
-}
-
-/* TOC title (e.g., "Contents") */
+/* Sidebar TOC container title */
 .book-toc .toc-title,
 .book-toc .toc-heading {
   color: #034969 !important;
 }
 
-/* All TOC links */
-.book-toc .toc a,
-.sidebar .toc a {
-  color: #CF471F !important;
+/* All sidebar TOC links (top + nested) */
+.book-toc .toc a {
+  color: #034969 !important;
 }
 
-/* Hover state for links */
-.book-toc .toc a:hover,
-.sidebar .toc a:hover {
+/* Hover state */
+.book-toc .toc a:hover {
   color: #30ACAE !important;
 }
 
 /* Active/current page link */
 .book-toc .toc li.current > a,
-.book-toc .toc .current a,
-.sidebar .toc li.current > a {
+.book-toc .toc .current a {
   color: #30ACAE !important;
   font-weight: 600;
 }
 
-/* Sub-level links (indented) */
-.book-toc .toc li ul li a,
-.sidebar .toc li ul li a {
+/* Sub-level links slightly muted */
+.book-toc .toc li ul li a {
   color: #37474f !important;
   font-size: 0.95em;
+}
+
+
+
+/* ===== Sidebar Font Colors ===== */
+
+/* Sidebar container */
+.sidebar,
+.book-sidebar {
+  background: transparent; /* or set a color like #ffffff */
+}
+
+/* Sidebar headings (e.g., site title, section headings) */
+.sidebar .site-title,
+.sidebar .sidebar-title,
+.book-sidebar .toc-title {
+  color: #034969 !important;
+  font-weight: 600;
+}
+
+/* Sidebar nav links (top-level) */
+.sidebar a,
+.book-sidebar .nav a,
+.book-sidebar .toc a {
+  color: #034969 !important;
+  text-decoration: none;
+}
+
+/* Hover state for sidebar links */
+.sidebar a:hover,
+.book-sidebar .nav a:hover,
+.book-sidebar .toc a:hover {
+  color: #30ACAE !important;
+}
+
+/* Active/current sidebar link */
+.sidebar li.current > a,
+.book-sidebar .toc li.current > a,
+.book-sidebar .nav li.current > a {
+  color: #30ACAE !important;
+  font-weight: 700;
+}
+
+/* Muted/secondary items (sub-links, meta) */
+.sidebar .muted,
+.sidebar .small,
+.book-sidebar .toc li ul li a {
+  color: #37474f !important;
+  font-size: 0.95em;
+}
+
+/* Ensure contrast for dark backgrounds (optional) */
+.sidebar.dark,
+.book-sidebar.dark {
+  /* example: lighten link colors when sidebar uses dark theme */
+}
+
+
+/* ===== Chapter Title Font Colors ===== */
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a,
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a span.chaptertitle {
+  color: #CF471F !important;
 }
