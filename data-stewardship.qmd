@@ -1,0 +1,17 @@
+---
+title: "Data Stewardship"
+format: html
+---
+
+# Defining your "why" for data stewardship
+
+
+::: {.commentbox}
+::::{.commentbox-header}
+Slides
+::::
+::::{.commentbox-body}
+Link to the slides here [Data StewardshipLesson]()
+::::
+:::
+ 

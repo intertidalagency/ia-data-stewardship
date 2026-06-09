@@ -1,0 +1,19 @@
+---
+title: "Data Licensing"
+format: html
+---
+
+Text here about licensing. 
+
+
+::: {.commentbox}
+::::{.commentbox-header}
+Slides
+::::
+::::{.commentbox-body}
+This is the link to the [Data Licensing Lesson]()
+::::
+:::
+ 
+ 
+ 

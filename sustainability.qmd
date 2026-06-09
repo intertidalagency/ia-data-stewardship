@@ -1,0 +1,21 @@
+---
+title: "Long-term data stewardship"
+format: html
+---
+
+> Ice cream melts.
+
+
+## Planning for the future
+  
+  
+
+::: {.commentbox}
+::::{.commentbox-header}
+Slides
+::::
+::::{.commentbox-body}
+This is the link to the [Lesson]()
+::::
+:::
+ 
