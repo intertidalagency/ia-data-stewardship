@@ -3,6 +3,7 @@ title: "Data Lifecycle"
 format: html
 ---
 
+
 These are the stages data often goes through during a research project, but they
 are also how we think about data going from idea to impactful information.  
   
@@ -17,3 +18,16 @@ that can be taken.  These are not comprehensive, rather, they are a jumping-off 
 to think about data stewardship practices in your own work.  
 
 
+::: {.commentbox}
+::::{.commentbox-header}
+Slides
+::::
+::::{.commentbox-body}
+This is my text and link to the [Data Lifecycle Lesson]()
+::::
+:::
+ 
+ 
+ 
+ 
+ 

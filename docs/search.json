@@ -2,11 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Data Stewardship for ocean data",
+    "title": "Ocean Data Stewardship",
     "section": "",
-    "text": "This site contains information and resources about the principles and practices of stewarding ocean data. The content was delivered as three sessions for the Operational Oceanography students at Rutgers University in fall 2025/winter 2026.\n\n\nWhat is data stewardship?\n It is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\n\nWhy does it matter?\n\n\nenables faster, better science\nconnects your data to new insights\ngets you credit for your data work\npreserves knowledge for the future",
+    "text": "This site contains information and resources about the principles and practices of stewarding ocean data.\n\n\nWhat is data stewardship?\n It is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\n\nWhy does it matter?\n\n\nenables faster, better science\nconnects your data to new insights\ngets you credit for your data work\npreserves knowledge for the future",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Data stewardship</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
     ]
   },
   {
@@ -25,10 +25,10 @@
     "href": "data-lifecycle.html",
     "title": "Data Lifecycle",
     "section": "",
-    "text": "These are the stages data often goes through during a research project, but they are also how we think about data going from idea to impactful information.\n\n\n\n\nData lifecycle (Click to enlarge)\n\n\n\nAt each stage of the data lifecycle, we’ve highlighted some data stewardship actions that can be taken. These are not comprehensive, rather, they are a jumping-off point to think about data stewardship practices in your own work.",
+    "text": "These are the stages data often goes through during a research project, but they are also how we think about data going from idea to impactful information.\n\n\n\n\nData lifecycle (Click to enlarge)\n\n\n\nAt each stage of the data lifecycle, we’ve highlighted some data stewardship actions that can be taken. These are not comprehensive, rather, they are a jumping-off point to think about data stewardship practices in your own work.\n\n\nSlides\n\n\nThis is my text and link to the Data Lifecycle Lesson",
     "crumbs": [
-      "Session #1",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Lifecycle</span>"
+      "Core Lessons",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Lifecycle</span>"
     ]
   },
   {
@@ -73,6 +73,135 @@
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Lifecycle Template</span>"
+    ]
+  },
+  {
+    "objectID": "program-summary.html",
+    "href": "program-summary.html",
+    "title": "Program Summary",
+    "section": "",
+    "text": "Summary of the program",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Program Summary</span>"
+    ]
+  },
+  {
+    "objectID": "what-to-expect.html",
+    "href": "what-to-expect.html",
+    "title": "What to expect",
+    "section": "",
+    "text": "What to expect",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>What to expect</span>"
+    ]
+  },
+  {
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "Planning",
+    "section": "",
+    "text": "Data Management Plans\n\n\nSlides\n\n\nThis is the link to the DMP Lesson This is the link to the \n\n\n\n\nOther related planning topics\n\nSoftware Management Plans",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Planning</span>"
+    ]
+  },
+  {
+    "objectID": "metadata.html",
+    "href": "metadata.html",
+    "title": "Metadata",
+    "section": "",
+    "text": "Metadata\n\nTypes\n\n\nStandards & Formats\n\n\nSlides\n\n\nThis is the link to the Metadata Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Metadata</span>"
+    ]
+  },
+  {
+    "objectID": "repositories.html",
+    "href": "repositories.html",
+    "title": "Repositories",
+    "section": "",
+    "text": "Repositories\n\nGeneralist\n\n\nSpecialist",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Repositories</span>"
+    ]
+  },
+  {
+    "objectID": "additional-resources.html",
+    "href": "additional-resources.html",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "Additional Data Stewardship Resources",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Additional Resources</span>"
+    ]
+  },
+  {
+    "objectID": "data-stewardship.html",
+    "href": "data-stewardship.html",
+    "title": "data-stewardship",
+    "section": "",
+    "text": "Data Stewardship\n\n\nDefining your “why” for data stewardship\n\n\nSlides\n\n\nLink to the slides here Data StewardshipLesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>data-stewardship</span>"
+    ]
+  },
+  {
+    "objectID": "data-principles-standards.html",
+    "href": "data-principles-standards.html",
+    "title": "data-principles-standards",
+    "section": "",
+    "text": "FAIR\n\n\nCARE\n\n\nStandards\n\n\nSlides\n\n\nThis is the link to the Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>data-principles-standards</span>"
+    ]
+  },
+  {
+    "objectID": "data-licensing.html",
+    "href": "data-licensing.html",
+    "title": "data-licensing",
+    "section": "",
+    "text": "Data Licensing\n\n\nSlides\n\n\nThis is the link to the Data Licensing Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>data-licensing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing-repositories.html",
+    "href": "publishing-repositories.html",
+    "title": "Repositories",
+    "section": "",
+    "text": "Repositories\n\nGeneralist\n\n\nSpecialist\n\n\nSlides\n\n\nThis is the link to the Data Repositories Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Repositories</span>"
+    ]
+  },
+  {
+    "objectID": "sustainability.html",
+    "href": "sustainability.html",
+    "title": "sustainability",
+    "section": "",
+    "text": "Planning for the unexpected",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>sustainability</span>"
+    ]
+  },
+  {
+    "objectID": "sustainability.html#planning-for-the-unexpected",
+    "href": "sustainability.html#planning-for-the-unexpected",
+    "title": "sustainability",
+    "section": "",
+    "text": "Slides\n\n\nThis is the link to the Lesson",
+    "crumbs": [
+      "Core Lessons",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>sustainability</span>"
     ]
   }
 ]
