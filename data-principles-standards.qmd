@@ -3,11 +3,11 @@ title: "Data Principles & Standards"
 format: html
 ---
 
-## FAIR
+### FAIR
 
-## CARE
+### CARE
 
-## Standards
+### Standards
 
 
 ::: {.commentbox}

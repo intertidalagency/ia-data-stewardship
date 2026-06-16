@@ -3,7 +3,6 @@ title: "Data Lifecycle"
 format: html
 ---
 
-
 These are the stages data often goes through during a research project, but they
 are also how we think about data going from idea to impactful information.  
   

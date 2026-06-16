@@ -1,12 +1,12 @@
 ---
-title: "Long-term data stewardship"
+title: "Long-Term Data Stewardship"
 format: html
 ---
 
 > Ice cream melts.
 
 
-## Planning for the future
+### Planning for the future
   
   
 

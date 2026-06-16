@@ -8,18 +8,3 @@ of stewarding ocean data.
   
 <br>
   
-### What is data stewardship?
-<br>
-*It is the actions involved in supporting, promoting, and guiding the use and reuse of*
-*data throughout the data lifecycle.*
-
-<br>
-
-### Why does it matter? 
-<br>
-
- - enables faster, better science
- - connects your data to new insights
- - gets you credit for your data work
- - preserves knowledge for the future
-

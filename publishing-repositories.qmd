@@ -1,13 +1,25 @@
 ---
-title: "Repositories"
+title: "Publishing Data in Repositories"
 format: html
 ---
 
 ### Publishing data
 
+text here
+
+<br>
+
 ### Generalist
 
+text here
+
+<br>
+
 ### Specialist
+
+text here 
+
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
@@ -18,5 +30,9 @@ This is the link to the [Data Repositories Lesson]()
 ::::
 :::
  
+<br>
  
+### Additional resources
+
+EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship.  
  

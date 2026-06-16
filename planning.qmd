@@ -2,8 +2,12 @@
 title: "Planning"
 format: html
 ---
+<br>
 
-# Data Management Plans
+### Data Management Plans
+
+
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
@@ -15,9 +19,11 @@ This is the link to the []()
 ::::
 :::
  
+<br> 
 
-# Other related planning topics
-### Software Management Plans
+### Other related planning topics
+
+Software Management Plans
 
 
 

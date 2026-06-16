@@ -2,16 +2,48 @@
 title: "Data Stewardship"
 format: html
 ---
+    
+    
+### What is it?
+<!-- <br> -->
+*Data stewardship is the actions involved in supporting, promoting, and guiding the use*
+*and reuse of data throughout the data lifecycle.*
 
-# Defining your "why" for data stewardship
-
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
 Slides
 ::::
 ::::{.commentbox-body}
-Link to the slides here [Data Stewardship Lesson]()
+The [Data Stewardship Lesson]() also includes an exercise to help learners define their "why" for doing data stewardship.  
 ::::
 :::
  
+<br>
+
+### Why does data stewardship matter? 
+<!-- <br> -->
+
+ * enables faster, better science
+ * connects your data to new insights
+ * gets you credit for your data work
+ * preserves knowledge for the future
+
+<br>
+
+### Defining your "why" for data stewardship
+<!-- <br> -->
+When thinking about why you might practice data stewardship, consider
+
+ * Who might use your data?
+ * What might be the impact of your data?
+ * What would make your data or project a success?
+ 
+<br>
+
+### Additional resources
+
+The [Data Stewardship Toolkit]() is a group of worksheets and checklists that guides users through several data stewardship processes and actions. 
+
+EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship. 
