@@ -4,8 +4,9 @@ format: html
 ---
 
 ### List of resources here
- - item 1
- - item 2
+
+ - Underwater Glider User Group - [Data Management Tools](https://underwatergliders.org/glider-resources/data-management-tools/)
+ - FAIR Data Training for Deep Ocean Early Career Researchers: [Syllabus and slide presentations](https://darchive.mblwhoilibrary.org/entities/publication/3c9f2ea4-ab3d-49ec-bdb8-25b22add5418) 
 
 
 
