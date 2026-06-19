@@ -100,7 +100,7 @@
     "href": "planning.html",
     "title": "Planning",
     "section": "",
-    "text": "Data Management Plans\n\n\n\nSlides\n\n\nThis is the link to the DMP Lesson This is the link to the \n\n\n\n\n\nOther related planning topics\nSoftware Management Plans",
+    "text": "Documenting process and decisions\n\nkeep a decision log (Steve Diggs idea that resonated with folks)\n\n\n\nData Management Plans\n\n\n\nSlides\n\n\nThis is the link to the DMP Lesson This is the link to the \n\n\n\n\n\nOther related planning topics\nSoftware Management Plans",
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Planning</span>"
@@ -131,11 +131,11 @@
   {
     "objectID": "additional-resources.html",
     "href": "additional-resources.html",
-    "title": "Additional Data Stewardship Resources",
+    "title": "Additional Resources",
     "section": "",
-    "text": "List of resources here\n\nitem 1\nitem 2",
+    "text": "Data Stewardship\n\nThe Data Stewardship Toolkit is a group of worksheets and checklists that guides users through several data stewardship processes and actions.\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.\n\n\n\n\nFAIR\n\nFAIR Data Training for Deep Ocean Early Career Researchers: Syllabus and slide presentations\n\n\n\n\nCode Management & Publishing\n\nPublising code from GitHub to Zenodo - a lesson written by Steve Formel from The Data Patch for Rutgers University Masters in Operational Oceanography program.\n\n\n\n\nGliders\n\nUnderwater Glider User Group - Data Management Tools",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Data Stewardship Resources</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Additional Resources</span>"
     ]
   },
   {
@@ -143,7 +143,7 @@
     "href": "data-stewardship.html",
     "title": "Data Stewardship",
     "section": "",
-    "text": "What is it?\n\nData stewardship is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\n\nSlides\n\n\nThe Data Stewardship Lesson also includes an exercise to help learners define their “why” for doing data stewardship.\n\n\n\n\n\nWhy does data stewardship matter?\n\n\nenables faster, better science\nconnects your data to new insights\ngets you credit for your data work\npreserves knowledge for the future\n\n\n\n\nDefining your “why” for data stewardship\n\nWhen thinking about why you might practice data stewardship, consider\n\nWho might use your data?\nWhat might be the impact of your data?\nWhat would make your data or project a success?\n\n\n\n\nAdditional resources\nThe Data Stewardship Toolkit is a group of worksheets and checklists that guides users through several data stewardship processes and actions.\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.",
+    "text": "What is it?\n\nData stewardship is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.\n\n\n\nSlides\n\n\nThe Data Stewardship Lesson also includes an exercise to help learners define their “why” for doing data stewardship.\n\n\n\n\n\nWhy does data stewardship matter?\n\n\nenables faster, better science\nconnects your data to new insights\ngets you credit for your data work\npreserves knowledge for the future\n\n\n\n\nDefining your “why” for data stewardship\n\nWhen thinking about why you might practice data stewardship, consider\n\nWho might use your data?\nWhat might be the impact of your data?\nWhat would make your data or project a success?\n\n\n\n\nAdditional resources\nSee the Data Stewardship section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Stewardship</span>"
@@ -176,7 +176,7 @@
     "href": "publishing-repositories.html",
     "title": "Publishing Data in Repositories",
     "section": "",
-    "text": "Publishing data\ntext here\n\n\n\nGeneralist\ntext here\n\n\n\nSpecialist\ntext here\n\n\n\nSlides\n\n\nThis is the link to the Data Repositories Lesson\n\n\n\n\n\nAdditional resources\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.",
+    "text": "Publishing data\ntext here\n\n\n\nGeneralist\ntext here\n\n\n\nSpecialist\ntext here\n\n\n\nSlides\n\n\nThis is the link to the Data Repositories Lesson\n\n\n\n\n\nAdditional resources\nSee the Code Management & Publishing section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Lessons",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Publishing Data in Repositories</span>"

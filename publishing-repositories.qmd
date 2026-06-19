@@ -34,5 +34,5 @@ This is the link to the [Data Repositories Lesson]()
  
 ### Additional resources
 
-[Publising code from GitHub to Zenodo](https://the-data-patch.github.io/github-zenodo-clinic/) - a lesson written by Steve Formel from [The Data Patch](https://www.thedatapatch.com/) for [Rutgers University Masters in Operational Oceanography program](https://rucool.marine.rutgers.edu/category/moo/).    
+See the [Code Management & Publishing](additional-resources.qmd#Code Management & Publishing) section of the Additional Resources page for more information.    
  

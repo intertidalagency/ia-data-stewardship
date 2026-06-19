@@ -2,7 +2,10 @@
 title: "Planning"
 format: html
 ---
-<br>
+
+### Documenting process and decisions
+ - keep a decision log (Steve Diggs idea that resonated with folks)
+
 
 ### Data Management Plans
 

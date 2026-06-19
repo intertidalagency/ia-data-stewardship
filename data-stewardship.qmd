@@ -44,6 +44,4 @@ When thinking about why you might practice data stewardship, consider
 
 ### Additional resources
 
-The [Data Stewardship Toolkit]() is a group of worksheets and checklists that guides users through several data stewardship processes and actions. 
-
-EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship. 
+See the [Data Stewardship](additional-resources.qmd#Data Stewardship) section of the Additional Resources page for more information.    

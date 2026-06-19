@@ -1,12 +1,30 @@
 ---
-title: "Additional Data Stewardship Resources"
+title: "Additional Resources"
 format: html
 ---
 
-### List of resources here
+### Data Stewardship 
 
- - Underwater Glider User Group - [Data Management Tools](https://underwatergliders.org/glider-resources/data-management-tools/)
+ - The [Data Stewardship Toolkit]() is a group of worksheets and checklists that guides users through several data stewardship processes and actions. 
+
+ - EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship. 
+
+<br>
+ 
+### FAIR 
  - FAIR Data Training for Deep Ocean Early Career Researchers: [Syllabus and slide presentations](https://darchive.mblwhoilibrary.org/entities/publication/3c9f2ea4-ab3d-49ec-bdb8-25b22add5418) 
 
+<br>
 
+### Code Management & Publishing
+
+ - [Publising code from GitHub to Zenodo](https://the-data-patch.github.io/github-zenodo-clinic/) - a lesson written by Steve Formel from [The Data Patch](https://www.thedatapatch.com/) for [Rutgers University Masters in Operational Oceanography program](https://rucool.marine.rutgers.edu/category/moo/).    
+
+<br>
+
+### Gliders
+
+ - Underwater Glider User Group - [Data Management Tools](https://underwatergliders.org/glider-resources/data-management-tools/)
+
+<br>
 
