@@ -183,3 +183,18 @@ main .quarto-figure img {
 .quarto-title-breadcrumbs .breadcrumb li:last-of-type a span.chaptertitle {
   color: #CF471F !important;
 }
+
+
+/* ===== Block Quote Font Colors ===== */
+
+blockquote, blockquote p {
+  color: #0E7272 !important;
+  font-style: italic !important;
+  font-weight: 700 !important;   /* bold */
+  font-size: 1.25em !important;  /* adjust as you like */
+}
+
+blockquote{
+  border-left: 6px solid #CF471F  !important;
+}
+

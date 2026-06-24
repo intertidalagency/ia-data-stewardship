@@ -12,7 +12,7 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Slides
+Lesson Slides
 ::::
 ::::{.commentbox-body}
 This is the link to the [Lesson]()

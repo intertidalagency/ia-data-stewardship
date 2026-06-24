@@ -13,7 +13,7 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Slides
+Lesson Slides
 ::::
 ::::{.commentbox-body}
 The [Data Stewardship Lesson]() also includes an exercise to help learners define their "why" for doing data stewardship.  
@@ -44,4 +44,4 @@ When thinking about why you might practice data stewardship, consider
 
 ### Additional resources
 
-See the [Data Stewardship](additional-resources.qmd#Data Stewardship) section of the Additional Resources page for more information.    
+See the [Data Stewardship](resources.qmd#Data Stewardship) section of the Additional Resources page for more information.    

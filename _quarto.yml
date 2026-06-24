@@ -13,9 +13,8 @@ book:
   # Navigation
   chapters: 
     - index.qmd
-    - program-summary.qmd
-    - what-to-expect.qmd
-    - part: "Core Lessons"
+    - about.qmd
+    - part: "Core Topics"
       chapters: 
         - data-stewardship.qmd
         - data-lifecycle.qmd
@@ -25,7 +24,7 @@ book:
         - metadata.qmd
         - publishing-repositories.qmd
         - sustainability.qmd
-    - additional-resources.qmd
+    - resources.qmd
   page-navigation: false
   
   # Header/Navigation Bar

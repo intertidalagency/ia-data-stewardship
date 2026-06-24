@@ -19,7 +19,7 @@ to think about data stewardship practices in your own work.
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Slides
+Lesson Slides
 ::::
 ::::{.commentbox-body}
 This is my text and link to the [Data Lifecycle Lesson]()

@@ -1,0 +1,30 @@
+---
+title: "About"
+format: html
+---
+
+### A curriculum designed with your data in mind
+
+Our free training sessions focus on critical topics to help you build your data toolkit and influence a lasting culture shift in data stewardship. By completing this training program, you will earn a certificate of completion.
+
+Throughout our training, we will explore ways you can:
+
+ - define why you practice data stewardship
+ - maximize the reusability and resilience of your data
+ - collect and attribute data responsibly
+ -  prepare data for science, impact, and action
+ - create a culture of collaborative data stewardship
+ - build a supportive data community to learn from and grow with
+
+<br> 
+
+### Collaborative, virtual sessions guided by experts
+
+Our training sessions consists of six, 90-minute bi-weekly trainings along with off-week coworking sessions to connect with peers and focus on your own data projects. The sessions will be delivered by subject matter experts and feature guest speakers from various disciplines of data stewardship, governance, and strategy. Our collaborative coworking sessions provide an opportunity for you to broaden and enhance how stewardship practices apply to your data projects.
+
+<br> 
+
+### Have a question? Want to host a customized training? Don’t hesitate to reach out!
+
+Contact our Program Coordinator, Mollie, at mollie@intertidal.agency with any questions!
+

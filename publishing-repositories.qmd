@@ -23,7 +23,7 @@ text here
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Slides
+Lesson Slides
 ::::
 ::::{.commentbox-body}
 This is the link to the [Data Repositories Lesson]()
@@ -34,5 +34,5 @@ This is the link to the [Data Repositories Lesson]()
  
 ### Additional resources
 
-See the [Code Management & Publishing](additional-resources.qmd#Code Management & Publishing) section of the Additional Resources page for more information.    
+See the [Code Management & Publishing](resources.qmd#Code Management & Publishing) section of the Additional Resources page for more information.    
  

@@ -1,7 +1,0 @@
----
-title: "Program Summary"
-format: html
----
-
-Intertidal Agency's Ocean Data Stewardship training program seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.  
-
