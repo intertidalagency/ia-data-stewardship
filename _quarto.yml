@@ -13,7 +13,7 @@ book:
   # Navigation
   chapters: 
     - index.qmd
-    - about.qmd
+    - training-program.qmd
     - part: "Core Topics"
       chapters: 
         - data-stewardship.qmd
@@ -24,6 +24,7 @@ book:
         - metadata.qmd
         - publishing-repositories.qmd
         - sustainability.qmd
+    - toolkit.qmd
     - resources.qmd
   page-navigation: false
   

@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Ocean Data Stewardship",
     "section": "",
-    "text": "Join us on our journey towards a better ocean by building your superpowers in ocean data stewardship.\n\n\n\nBuild your data superpowers for lasting impact\nWherever you are on your data journey, we can help you connect your data to action. Learn how you can contribute to a more open, connected, and impactful future for ocean data from our experts in ocean data stewardship or on your own with our materials. Our core focus is to make data more useful, useable, and used to drive better decision making for the future of ocean sustainability and climate action.\n\n\n\nTraining program\nIntertidal Agency’s Ocean Data Stewardship training program seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.",
+    "text": "Ocean data is critical for the science, innovation, and management we need for a livable planet, but too often data is trapped in organizational silos and on local hard drives. Unlocking ocean data is not a technology problem; it’s about supporting the people who apply expertise, judgment, and skill to connect data to action throughout the data lifecycle. We call this ocean data stewardship, and we think it’s an essential superpower, especially in a moment when the global data landscape is rapidly changing.\n\nData stewardship is a proactive mindset that makes data actionable. Data stewards improve the value and impact of ocean data by practicing stewardship throughout the data lifecycle. By treating data as a community asset, ocean data stewards increase the reach of data beyond any single project and expand the body of knowledge available to everyone.\n\n\nTrain with us!\nIntertidal Agency’s Ocean Data Stewardship training program seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Training Program</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
@@ -288,6 +288,26 @@
     "text": "Data Stewardship\n\nThe Data Stewardship Toolkit is a group of worksheets and checklists that guides users through several data stewardship processes and actions.\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.\n\n\n\n\nFAIR\n\nFAIR Data Training for Deep Ocean Early Career Researchers: Syllabus and slide presentations\n\n\n\n\nCode Management & Publishing\n\nPublising code from GitHub to Zenodo - a lesson written by Steve Formel from The Data Patch for Rutgers University Masters in Operational Oceanography program.\n\n\n\n\nGliders\n\nUnderwater Glider User Group - Data Management Tools",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "training-program.html",
+    "href": "training-program.html",
+    "title": "Training Program",
+    "section": "",
+    "text": "Join us on our journey towards a better ocean by building your superpowers in ocean data stewardship.\n\n\n\nBuild your data superpowers for lasting impact\nWherever you are on your data journey, we can help you connect your data to action. Learn how you can contribute to a more open, connected, and impactful future for ocean data from our experts in ocean data stewardship or on your own with our materials. Our core focus is to make data more useful, useable, and used to drive better decision making for the future of ocean sustainability and climate action.\n\n\n\nA curriculum designed with your data in mind\nOur free training sessions focus on critical topics to help you build your data toolkit and influence a lasting culture shift in data stewardship. By completing this training program, you will earn a certificate of completion.\nThroughout our training, we will explore ways you can:\n\ndefine why you practice data stewardship\nmaximize the reusability and resilience of your data\ncollect and attribute data responsibly\nprepare data for science, impact, and action\ncreate a culture of collaborative data stewardship\nbuild a supportive data community to learn from and grow with\n\n\n\n\nCollaborative, virtual sessions guided by experts\nOur training sessions consists of six, 90-minute bi-weekly trainings along with off-week coworking sessions to connect with peers and focus on your own data projects. The sessions will be delivered by subject matter experts and feature guest speakers from various disciplines of data stewardship, governance, and strategy. Our collaborative coworking sessions provide an opportunity for you to broaden and enhance how stewardship practices apply to your data projects.\n\n\n\nHave a question? Want to host a customized training? Don’t hesitate to reach out!\nContact our Program Coordinator, Mollie, at mollie@intertidal.agency with any questions!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Training Program</span>"
+    ]
+  },
+  {
+    "objectID": "toolkit.html",
+    "href": "toolkit.html",
+    "title": "Toolkit",
+    "section": "",
+    "text": "The Ocean Data Stewardship Toolkit provides tools and resources to identify and communicate stewardship objectives, plan and document data projects using those objectives, share data effectively and ethically, and apply FAIR data practices to support data discoverability and reuse.\nThe contents of the toolkit, outlined below, are a collection of worksheets, checklists, considerations, and other resources that support impact and action in critical components of ocean data stewardship activities.\n\n\nContents of the Toolkit\nThe toolkit consists of the following materials. The toolkit is published and can be downloaded from Zenodo.\n\nDefining Your Why Worksheet\nData Management Plan (DMP) Checklist\nData Sharing Checklist\nMetadata for Reusability Checklist\nData Repository Considerations & Resources\nFAIR Assessment Tools - Overview and Considerations\nStewardship Maturity Assessment\nStewardship Actions & Considerations for Software Management Plans (SMPs)",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Toolkit</span>"
     ]
   }
 ]

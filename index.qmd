@@ -1,22 +1,21 @@
 ---
-title: "Training Program"
+title: "About"
 format: html
 ---
 
-> Join us on our journey towards a better ocean by building your superpowers in ocean data stewardship.
+<br>
+
+Ocean data is critical for the science, innovation, and management we need for a livable planet, but too often data is trapped in organizational silos and on local hard drives. Unlocking ocean data is not a technology problem; it’s about *supporting the people who* apply expertise, judgment, and skill to *connect data to action* throughout the data lifecycle. *We call this ocean data stewardship*, and we think it's an essential superpower, especially in a moment when the global data landscape is rapidly changing.
 
 <br>
 
-### Build your data superpowers for lasting impact
+Data stewardship is a proactive mindset that makes data actionable. Data stewards improve the value and impact of ocean data by practicing stewardship throughout the data lifecycle. By treating data as a community asset, ocean data stewards increase the reach of data beyond any single project and expand the body of knowledge available to everyone.
 
-Wherever you are on your data journey, we can help you connect your data to action. Learn how you can contribute to a more open, connected, and impactful future for ocean data from our experts in ocean data stewardship or on your own with our materials. Our core focus is to make data more useful, useable, and used to drive better decision making for the future of ocean sustainability and climate action.
+<br>
 
-<br> 
+### Train with us!
 
-### Training program
-
-Intertidal Agency's Ocean Data Stewardship training program seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.  
+Intertidal Agency's [Ocean Data Stewardship training program](training-program.qmd) seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.  
 
 <br> 
 
-  

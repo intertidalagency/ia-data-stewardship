@@ -1,0 +1,27 @@
+---
+title: "Toolkit"
+format: html
+---
+
+The Ocean Data Stewardship Toolkit provides tools and resources to identify and communicate stewardship objectives, plan and document data projects using those objectives, share data effectively and ethically, and apply FAIR data practices to support data discoverability and reuse. 
+
+The contents of the toolkit, outlined below, are a collection of worksheets, checklists, considerations, and other resources that support impact and action in critical components of ocean data stewardship activities.
+
+<br>
+
+### Contents of the Toolkit
+The toolkit consists of the following materials. The [toolkit is published]() and can be downloaded for use.  
+
+- Defining Your Why Worksheet
+- Data Management Plan (DMP) Checklist
+- Data Sharing Checklist
+- Metadata for Reusability Checklist
+- Data Repository Considerations & Resources
+- FAIR Assessment Tools - Overview and Considerations
+- Stewardship Maturity Assessment
+- Stewardship Actions & Considerations for Software Management Plans (SMPs)
+
+
+
+
+
