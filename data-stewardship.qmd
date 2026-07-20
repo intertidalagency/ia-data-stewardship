@@ -16,7 +16,8 @@ format: html
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-The [Data Stewardship Lesson]() also includes an exercise to help learners define their "why" for doing data stewardship.  
+The [Data Stewardship Lesson](https://doi.org/10.5281/zenodo.21399253).  
+Please also see the accompanying "Defining your Why Worksheet" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).    
 ::::
 :::
  

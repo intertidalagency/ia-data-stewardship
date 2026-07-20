@@ -5,7 +5,7 @@ format: html
 
 <br>
 
-Ocean data is critical for the science, innovation, and management we need for a livable planet, but too often data is trapped in organizational silos and on local hard drives. Unlocking ocean data is not a technology problem; it’s about *supporting the people who* apply expertise, judgment, and skill to *connect data to action* throughout the data lifecycle. *We call this ocean data stewardship*, and we think it's an essential superpower, especially in a moment when the global data landscape is rapidly changing.
+Ocean data is critical for the science, innovation, and management we need for a livable planet, but too often data is trapped in organizational silos and on local hard drives. Unlocking ocean data is not a technology problem; it’s about ***supporting the people who*** apply expertise, judgment, and skill to ***connect data to action*** throughout the data lifecycle. ***We call this ocean data stewardship***, and we think it's an essential superpower, especially in a moment when the global data landscape is rapidly changing.
 
 <br>
 
