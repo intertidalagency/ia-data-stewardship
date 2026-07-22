@@ -23,9 +23,11 @@ book:
         - data-licensing.qmd
         - metadata.qmd
         - publishing-repositories.qmd
-        - sustainability.qmd
+        # - sustainability.qmd
     - toolkit.qmd
-    - resources.qmd
+    - part: resources.qmd
+      chapters: 
+        - glossary_r.qmd
   page-navigation: false
   
   # Header/Navigation Bar
