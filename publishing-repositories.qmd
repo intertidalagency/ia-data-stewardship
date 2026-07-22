@@ -3,21 +3,9 @@ title: "Publishing Data in Repositories"
 format: html
 ---
 
-### Publishing data
+### What is it?
 
-text here
-
-<br>
-
-### Generalist
-
-text here
-
-<br>
-
-### Specialist
-
-text here 
+*Publishing data is the process of packaging up data and descriptive metadata, attaching a persistent identifier (e.g. DOI), and making available through a data repository (an entity that provides long-term storage and access to data).*   
 
 <br>
 
@@ -26,13 +14,27 @@ text here
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is the link to the [Data Repositories Lesson]()
+[Data Publishing Basics Lesson](https://doi.org/10.5281/zenodo.21421189)
+
+[Data Repositories Lesson](https://doi.org/10.5281/zenodo.21421310)
 ::::
 :::
  
 <br>
- 
+
+### TRUST Principles for data repositories
+
+The TRUST Principles are a set of guidelines developed to ensure that digital data repositories are reliable, sustainable, and useful over the long term.
+
+ - Transparency
+ - Responsibility
+ - User focus
+ - Sustainability
+ - Technology
+
+<br>
+
 ### Additional resources
 
-See the [Code Management & Publishing](resources.qmd#Code Management & Publishing) section of the Additional Resources page for more information.    
+See the [Repositories](resources.qmd#Repositories) section of the Additional Resources page for more information.    
  

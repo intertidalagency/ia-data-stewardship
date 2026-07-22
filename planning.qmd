@@ -3,13 +3,9 @@ title: "Planning"
 format: html
 ---
 
-### Documenting process and decisions
- - keep a decision log (Steve Diggs idea that resonated with folks)
+### What is it? 
 
-
-### Data Management Plans
-
-
+*Planning for the implementation of data stewardship practices and actions throughout the data lifecycle is critical to making data reusable.  This can be as simple as keeping a "decision log" in a text document to track process and decisions.  It can also include creating Data Management Plans (DMPs), making data ready for action, and ensuring data and metadata quality.*  
 <br>
 
 ::: {.commentbox}
@@ -17,16 +13,28 @@ format: html
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is the link to the [DMP Lesson]()
-This is the link to the []()
+The [DMP Lesson](https://doi.org/10.5281/zenodo.21421868) and exercise.  
+The [Data Ready for Action Lesson](https://doi.org/10.5281/zenodo.21421924) will assist in planning to make data fit for purpose.
 ::::
 :::
  
 <br> 
 
+### Data Management Plans (DMPs)
+
+A DMP is a formal document that outlines the data, code, and other products you will produce and how you will format, document, store, and preserve them both during and after the project
+
+DMPs are part of the technical documentation that supports your data stewardship goals, and can be related to project roadmaps, technical work plans, and data governance strategies.  
+
+<br>
+
 ### Other related planning topics
 
-Software Management Plans
+Software Management Plans are another important tool.  Please see the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627) for more on planning for software management. 
+<br>
 
+### Additional resources
+
+See the [Data Management Plans](resources.qmd#Data Management Plans (DMPs)) section of the Additional Resources page for more information.  
 
 

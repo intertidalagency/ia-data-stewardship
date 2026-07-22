@@ -3,16 +3,16 @@ title: "Resources"
 format: html
 ---
 
-### Data Stewardship 
-
- - The [Data Stewardship Toolkit]() is a group of worksheets and checklists that guides users through several data stewardship processes and actions. 
-
- - EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship. 
-
 <br>
- 
-### FAIR 
- - FAIR Data Training for Deep Ocean Early Career Researchers: [Syllabus and slide presentations](https://darchive.mblwhoilibrary.org/entities/publication/3c9f2ea4-ab3d-49ec-bdb8-25b22add5418) 
+
+::: {.commentbox}
+::::{.commentbox-header}
+Glossary of data stewardship terms
+::::
+::::{.commentbox-body}
+If you'd like definitions of some of the technical terms used on this site and more broadly in data stewardship, please consult the [glossary](glossary_r.qmd).    
+::::
+:::
 
 <br>
 
@@ -22,9 +22,65 @@ format: html
 
 <br>
 
+### Data Licensing
+
+- [Open Data Institute Data Sharing Spectrum](https://theodi.org/insights/tools/the-data-spectrum/)
+
+<br>
+
+### Data Lifecycle
+
+- [The Data Lifecycle](https://rdmkit.elixir-europe.org/data_life_cycle), part of the [RDMkit from Elixir Europe](https://rdmkit.elixir-europe.org/)
+
+<br>
+
+### Data Management Plans (DMPs)
+
+Tools for writing DMPs include 
+
+ - [DMPTool](https://dmptool.org/)
+ - [DMPonline](https://dmponline.dcc.ac.uk/)
+ - [DAMAP](https://damap.org/)
+ - [FAIR Wizard](https://fair-wizard.com/)
+
+<br>
+
+### Data Principles
+
+ - [FAIR Principles](https://www.go-fair.org/fair-principles/)
+ - [CARE Principles](https://www.gida-global.org/careprinciples)
+
+<br>
+
+### Data Stewardship 
+
+ - The [Data Stewardship Toolkit]() is a group of worksheets and checklists that guides users through several data stewardship processes and actions. 
+
+ - EXAMPLE: [Utrecht Bioinformatics Center Zenodo Community](https://zenodo.org/communities/ubc-rdm/) with 4 publications on data stewardship. 
+
+<br>
+ 
+### FAIR 
+
+ - FAIR Data Training for Deep Ocean Early Career Researchers: [Syllabus and slide presentations](https://darchive.mblwhoilibrary.org/entities/publication/3c9f2ea4-ab3d-49ec-bdb8-25b22add5418) 
+
+<br>
+
 ### Gliders
 
  - Underwater Glider User Group - [Data Management Tools](https://underwatergliders.org/glider-resources/data-management-tools/)
+
+<br>
+
+### Metadata
+
+ - Metadata is the key to understanding and reusing data.  
+
+<br>
+
+### Repositories
+
+ - The [Registry of Research Data Repositories](https://re3data.org) maintains a searchable list of repositories.  This can assist data hodlers in finding an appropriate place to publish their data.   
 
 <br>
 

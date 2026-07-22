@@ -100,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./resources.html"><span class="chapter-title">Resources</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./resources.html">Resources</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -174,11 +174,6 @@ ul.task-list li input[type="checkbox"] {
   <a href="./publishing-repositories.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Publishing Data in Repositories</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./sustainability.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Long-Term Data Stewardship</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -186,21 +181,38 @@ ul.task-list li input[type="checkbox"] {
   <a href="./toolkit.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Toolkit</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./resources.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Resources</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Resources</span></a>
+  <a href="./glossary_r.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Stewardship Glossary</span></a>
   </div>
 </li>
+      </ul>
+  </li>
     </ul>
     </div>
     <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#data-stewardship" id="toc-data-stewardship" class="nav-link active" data-scroll-target="#data-stewardship">Data Stewardship</a></li>
+  <li><a href="#code-management-publishing" id="toc-code-management-publishing" class="nav-link active" data-scroll-target="#code-management-publishing">Code Management &amp; Publishing</a></li>
+  <li><a href="#data-licensing" id="toc-data-licensing" class="nav-link" data-scroll-target="#data-licensing">Data Licensing</a></li>
+  <li><a href="#data-lifecycle" id="toc-data-lifecycle" class="nav-link" data-scroll-target="#data-lifecycle">Data Lifecycle</a></li>
+  <li><a href="#data-management-plans-dmps" id="toc-data-management-plans-dmps" class="nav-link" data-scroll-target="#data-management-plans-dmps">Data Management Plans (DMPs)</a></li>
+  <li><a href="#data-principles" id="toc-data-principles" class="nav-link" data-scroll-target="#data-principles">Data Principles</a></li>
+  <li><a href="#data-stewardship" id="toc-data-stewardship" class="nav-link" data-scroll-target="#data-stewardship">Data Stewardship</a></li>
   <li><a href="#fair" id="toc-fair" class="nav-link" data-scroll-target="#fair">FAIR</a></li>
-  <li><a href="#code-management-publishing" id="toc-code-management-publishing" class="nav-link" data-scroll-target="#code-management-publishing">Code Management &amp; Publishing</a></li>
   <li><a href="#gliders" id="toc-gliders" class="nav-link" data-scroll-target="#gliders">Gliders</a></li>
+  <li><a href="#metadata" id="toc-metadata" class="nav-link" data-scroll-target="#metadata">Metadata</a></li>
+  <li><a href="#repositories" id="toc-repositories" class="nav-link" data-scroll-target="#repositories">Repositories</a></li>
   </ul>
 </nav>
 </nav>
@@ -213,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Resources</span></h1>
+<h1 class="title">Resources</h1>
 </div>
 
 
@@ -230,6 +242,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><br></p>
+<div class="commentbox">
+<div class="commentbox-header">
+<p>Glossary of data stewardship terms</p>
+</div>
+<div class="commentbox-body">
+<p>If you’d like definitions of some of the technical terms used on this site and more broadly in data stewardship, please consult the <a href="./glossary_r.html">glossary</a>.</p>
+</div>
+</div>
+<p><br></p>
+<section id="code-management-publishing" class="level3">
+<h3 class="anchored" data-anchor-id="code-management-publishing">Code Management &amp; Publishing</h3>
+<ul>
+<li><a href="https://the-data-patch.github.io/github-zenodo-clinic/">Publising code from GitHub to Zenodo</a> - a lesson written by Steve Formel from <a href="https://www.thedatapatch.com/">The Data Patch</a> for <a href="https://rucool.marine.rutgers.edu/category/moo/">Rutgers University Masters in Operational Oceanography program</a>.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="data-licensing" class="level3">
+<h3 class="anchored" data-anchor-id="data-licensing">Data Licensing</h3>
+<ul>
+<li><a href="https://theodi.org/insights/tools/the-data-spectrum/">Open Data Institute Data Sharing Spectrum</a></li>
+</ul>
+<p><br></p>
+</section>
+<section id="data-lifecycle" class="level3">
+<h3 class="anchored" data-anchor-id="data-lifecycle">Data Lifecycle</h3>
+<ul>
+<li><a href="https://rdmkit.elixir-europe.org/data_life_cycle">The Data Lifecycle</a>, part of the <a href="https://rdmkit.elixir-europe.org/">RDMkit from Elixir Europe</a></li>
+</ul>
+<p><br></p>
+</section>
+<section id="data-management-plans-dmps" class="level3">
+<h3 class="anchored" data-anchor-id="data-management-plans-dmps">Data Management Plans (DMPs)</h3>
+<p>Tools for writing DMPs include</p>
+<ul>
+<li><a href="https://dmptool.org/">DMPTool</a></li>
+<li><a href="https://dmponline.dcc.ac.uk/">DMPonline</a></li>
+<li><a href="https://damap.org/">DAMAP</a></li>
+<li><a href="https://fair-wizard.com/">FAIR Wizard</a></li>
+</ul>
+<p><br></p>
+</section>
+<section id="data-principles" class="level3">
+<h3 class="anchored" data-anchor-id="data-principles">Data Principles</h3>
+<ul>
+<li><a href="https://www.go-fair.org/fair-principles/">FAIR Principles</a></li>
+<li><a href="https://www.gida-global.org/careprinciples">CARE Principles</a></li>
+</ul>
+<p><br></p>
+</section>
 <section id="data-stewardship" class="level3">
 <h3 class="anchored" data-anchor-id="data-stewardship">Data Stewardship</h3>
 <ul>
@@ -245,17 +307,24 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p><br></p>
 </section>
-<section id="code-management-publishing" class="level3">
-<h3 class="anchored" data-anchor-id="code-management-publishing">Code Management &amp; Publishing</h3>
-<ul>
-<li><a href="https://the-data-patch.github.io/github-zenodo-clinic/">Publising code from GitHub to Zenodo</a> - a lesson written by Steve Formel from <a href="https://www.thedatapatch.com/">The Data Patch</a> for <a href="https://rucool.marine.rutgers.edu/category/moo/">Rutgers University Masters in Operational Oceanography program</a>.</li>
-</ul>
-<p><br></p>
-</section>
 <section id="gliders" class="level3">
 <h3 class="anchored" data-anchor-id="gliders">Gliders</h3>
 <ul>
 <li>Underwater Glider User Group - <a href="https://underwatergliders.org/glider-resources/data-management-tools/">Data Management Tools</a></li>
+</ul>
+<p><br></p>
+</section>
+<section id="metadata" class="level3">
+<h3 class="anchored" data-anchor-id="metadata">Metadata</h3>
+<ul>
+<li>metadata</li>
+</ul>
+<p><br></p>
+</section>
+<section id="repositories" class="level3">
+<h3 class="anchored" data-anchor-id="repositories">Repositories</h3>
+<ul>
+<li>The <a href="https://re3data.org">Registry of Research Data Repositories</a> maintains a searchable list of repositories. This can assist data hodlers in finding an appropriate place to publish their data.</li>
 </ul>
 <p><br></p>
 

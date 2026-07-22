@@ -3,19 +3,42 @@ title: "Data Principles & Standards"
 format: html
 ---
 
-### FAIR
+### What are they?
 
-### CARE
+*Data principles guide the actions of managing and stewarding data to make data more reusable and well documented.* 
 
-### Standards
-
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is the link to the [Lesson]()
+The [Data Principles & Standards Lesson](https://doi.org/10.5281/zenodo.21401791).
 ::::
 :::
+ 
+<br>
+
+### FAIR Principles
+
+ - Findable
+ - Accessible
+ - Interoperable
+ - Reusable
+
+<br>
+
+### CARE Principles for Indigenous Data Governance
+
+ - Collective Benefit
+ - Authority to control
+ - Responsibility
+ - Ethics
+
+<br>
+
+### Additional resources
+
+See the [Data Principles](resources.qmd#Data Principles) section of the Additional Resources page for more information.  
  

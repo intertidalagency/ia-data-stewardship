@@ -25,7 +25,7 @@
     "href": "data-lifecycle.html",
     "title": "Data Lifecycle",
     "section": "",
-    "text": "These are the stages data often goes through during a research project, but they are also how we think about data going from idea to impactful information.\n\n\n\n\nData lifecycle (Click to enlarge)\n\n\n\nAt each stage of the data lifecycle, we’ve highlighted some data stewardship actions that can be taken. These are not comprehensive, rather, they are a jumping-off point to think about data stewardship practices in your own work.\n\n\nLesson Slides\n\n\nThis is my text and link to the Data Lifecycle Lesson",
+    "text": "What is it?\nThese are the stages data often goes through during a project, but they are also how we think about data going from idea to impactful information.\n\n\n\nLesson Slides\n\n\nThe Data Lifecycle Lesson and exercises can help think about data stewardship roles and actions throughout a project.\n\n\n\n\n\nAdditional resources\nSee the Data Lifecycle section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Topics",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Lifecycle</span>"
@@ -100,7 +100,7 @@
     "href": "planning.html",
     "title": "Planning",
     "section": "",
-    "text": "Documenting process and decisions\n\nkeep a decision log (Steve Diggs idea that resonated with folks)\n\n\n\nData Management Plans\n\n\n\nLesson Slides\n\n\nThis is the link to the DMP Lesson This is the link to the \n\n\n\n\n\nOther related planning topics\nSoftware Management Plans",
+    "text": "What is it?\nPlanning for the implementation of data stewardship practices and actions throughout the data lifecycle is critical to making data reusable. This can be as simple as keeping a “decision log” in a text document to track process and decisions. It can also include creating Data Management Plans (DMPs), making data ready for action, and ensuring data and metadata quality.\n\n\n\nLesson Slides\n\n\nThe DMP Lesson and exercise.\nThe Data Ready for Action Lesson will assist in planning to make data fit for purpose.\n\n\n\n\n\nData Management Plans (DMPs)\nA DMP is a formal document that outlines the data, code, and other products you will produce and how you will format, document, store, and preserve them both during and after the project\nDMPs are part of the technical documentation that supports your data stewardship goals, and can be related to project roadmaps, technical work plans, and data governance strategies.\n\n\n\nOther related planning topics\nSoftware Management Plans are another important tool. Please see the Ocean Data Stewardship Toolkit for more on planning for software management. \n\n\nAdditional resources\nSee the Data Management Plans section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Topics",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Planning</span>"
@@ -111,7 +111,7 @@
     "href": "metadata.html",
     "title": "Metadata",
     "section": "",
-    "text": "Types\n\n\nStandards & Formats\n\n\nLesson Slides\n\n\nThis is the link to the Metadata Lesson",
+    "text": "What is it?\nMetadata is data about data. It describes the information and context needed to understand and interpret the data.\n\n\n\nLesson Slides\n\n\nThe Metadata Lesson and included exercise.\nThe Metadata for Data Discovery Lesson.\n\n\n\n\n\nCommon metadata standards in ocean science\nEcological Metadata Language (EML)\n\nFor ecological and environmental data of many types\nWidely used, tools in R to write it\n\nISO 19115\n\nFor geographic information, primarily\nMandated by the US Federal Government\n\nDarwin Core\n\nFor biological observations and related info\nImplemented by repositories such as OBIS and GBIF\n\nClimate & Forecast (CF)\n\nBuilt into NetCDF file format\n\n\n\n\nAdditional resources\nSee the Metadata section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Topics",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Metadata</span>"
@@ -154,7 +154,7 @@
     "href": "data-principles-standards.html",
     "title": "Data Principles & Standards",
     "section": "",
-    "text": "FAIR\n\n\nCARE\n\n\nStandards\n\n\nLesson Slides\n\n\nThis is the link to the Lesson",
+    "text": "What are they?\nData principles guide the actions of managing and stewarding data to make data more reusable and well documented.\n\n\n\nLesson Slides\n\n\nThe Data Principles & Standards Lesson.\n\n\n\n\n\nFAIR Principles\n\nFindable\nAccessible\nInteroperable\nReusable\n\n\n\n\nCARE Principles for Indigenous Data Governance\n\nCollective Benefit\nAuthority to control\nResponsibility\nEthics\n\n\n\n\nAdditional resources\nSee the Data Principles section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Topics",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Principles & Standards</span>"
@@ -165,10 +165,10 @@
     "href": "data-licensing.html",
     "title": "Data Licensing",
     "section": "",
-    "text": "Text here about licensing.\n\n\nSlides\n\n\nThis is the link to the Data Licensing Lesson",
+    "text": "What is it?\nData licenses contain the terms under which you can use someone else’s data.\n\n\n\nLesson Slides\n\n\nThe Data Sharing & Licensing Lesson.\n\n\n\n\n\nData Sharing spectrum\n\n\n\n\nAdditional resources\nSee the Data Licensing section of the Additional Resources page for more information.",
     "crumbs": [
-      "Core Lessons",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Licensing</span>"
+      "Core Topics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Licensing</span>"
     ]
   },
   {
@@ -176,7 +176,7 @@
     "href": "publishing-repositories.html",
     "title": "Publishing Data in Repositories",
     "section": "",
-    "text": "Publishing data\ntext here\n\n\n\nGeneralist\ntext here\n\n\n\nSpecialist\ntext here\n\n\n\nLesson Slides\n\n\nThis is the link to the Data Repositories Lesson\n\n\n\n\n\nAdditional resources\nSee the Code Management & Publishing section of the Additional Resources page for more information.",
+    "text": "What is it?\nPublishing data is the process of packaging up data and descriptive metadata, attaching a persistent identifier (e.g. DOI), and making available through a data repository (an entity that provides long-term storage and access to data).\n\n\n\nLesson Slides\n\n\nData Publishing Basics Lesson\nData Repositories Lesson\n\n\n\n\n\nTRUST Principles for data repositories\nThe TRUST Principles are a set of guidelines developed to ensure that digital data repositories are reliable, sustainable, and useful over the long term.\n\nTransparency\nResponsibility\nUser focus\nSustainability\nTechnology\n\n\n\n\nAdditional resources\nSee the Repositories section of the Additional Resources page for more information.",
     "crumbs": [
       "Core Topics",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Publishing Data in Repositories</span>"
@@ -285,9 +285,9 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Data Stewardship\n\nThe Data Stewardship Toolkit is a group of worksheets and checklists that guides users through several data stewardship processes and actions.\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.\n\n\n\n\nFAIR\n\nFAIR Data Training for Deep Ocean Early Career Researchers: Syllabus and slide presentations\n\n\n\n\nCode Management & Publishing\n\nPublising code from GitHub to Zenodo - a lesson written by Steve Formel from The Data Patch for Rutgers University Masters in Operational Oceanography program.\n\n\n\n\nGliders\n\nUnderwater Glider User Group - Data Management Tools",
+    "text": "Glossary of data stewardship terms\n\n\nIf you’d like definitions of some of the technical terms used on this site and more broadly in data stewardship, please consult the glossary.\n\n\n\n\nCode Management & Publishing\n\nPublising code from GitHub to Zenodo - a lesson written by Steve Formel from The Data Patch for Rutgers University Masters in Operational Oceanography program.\n\n\n\n\nData Licensing\n\nOpen Data Institute Data Sharing Spectrum\n\n\n\n\nData Lifecycle\n\nThe Data Lifecycle, part of the RDMkit from Elixir Europe\n\n\n\n\nData Management Plans (DMPs)\nTools for writing DMPs include\n\nDMPTool\nDMPonline\nDAMAP\nFAIR Wizard\n\n\n\n\nData Principles\n\nFAIR Principles\nCARE Principles\n\n\n\n\nData Stewardship\n\nThe Data Stewardship Toolkit is a group of worksheets and checklists that guides users through several data stewardship processes and actions.\nEXAMPLE: Utrecht Bioinformatics Center Zenodo Community with 4 publications on data stewardship.\n\n\n\n\nFAIR\n\nFAIR Data Training for Deep Ocean Early Career Researchers: Syllabus and slide presentations\n\n\n\n\nGliders\n\nUnderwater Glider User Group - Data Management Tools\n\n\n\n\nMetadata\n\nmetadata\n\n\n\n\nRepositories\n\nThe Registry of Research Data Repositories maintains a searchable list of repositories. This can assist data hodlers in finding an appropriate place to publish their data.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Resources</span>"
+      "Resources"
     ]
   },
   {
@@ -307,7 +307,29 @@
     "section": "",
     "text": "The Ocean Data Stewardship Toolkit provides tools and resources to identify and communicate stewardship objectives, plan and document data projects using those objectives, share data effectively and ethically, and apply FAIR data practices to support data discoverability and reuse.\nThe toolkit (outlined below) consists of a collection of worksheets, checklists, considerations, and other materials that support critical ocean data stewardship activities.\n\n\nToolkit Contents\n\nDefining Your Why Worksheet\nData Management Plan (DMP) Checklist\nData Sharing Checklist\nMetadata for Reusability Checklist\nData Repository Considerations & Resources\nFAIR Assessment Tools - Overview and Considerations\nStewardship Maturity Assessment\nStewardship Actions & Considerations for Software Management Plans (SMPs)",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Toolkit</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Toolkit</span>"
+    ]
+  },
+  {
+    "objectID": "glossary_r.html",
+    "href": "glossary_r.html",
+    "title": "Data Stewardship Glossary",
+    "section": "",
+    "text": "Calibrated Data\nThis glossary is meant to serve as a useful reference. It is an evergreen document and will be updated and added to as often as necessary.\nTime series data that has been processed using software to apply instrument calibration (to compare acoustic measurements to a known standard). From PAM Data Mgmt Best Practices.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Stewardship Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary_r.html#other-similar-glossaries",
+    "href": "glossary_r.html#other-similar-glossaries",
+    "title": "Data Stewardship Glossary",
+    "section": "Other Similar Glossaries",
+    "text": "Other Similar Glossaries\n\nFAIR Island",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Stewardship Glossary</span>"
     ]
   }
 ]

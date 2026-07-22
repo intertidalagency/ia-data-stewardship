@@ -3,30 +3,25 @@ title: "Data Lifecycle"
 format: html
 ---
 
-These are the stages data often goes through during a research project, but they
-are also how we think about data going from idea to impactful information.  
-  
+### What is it? 
+
+*These are the stages data often goes through during a project, but they are also how we think about data going from idea to impactful information.* 
+
 <br>  
   
-![Data lifecycle (*Click to enlarge*)](img/image-stewardship-data-lifecycle.svg){width="100%" fig-alt="Diagram showing the data lifecycle"}
-  
-<br>  
-  
-At each stage of the data lifecycle, we've highlighted some data stewardship actions
-that can be taken.  These are not comprehensive, rather, they are a jumping-off point
-to think about data stewardship practices in your own work.  
-
-
 ::: {.commentbox}
 ::::{.commentbox-header}
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is my text and link to the [Data Lifecycle Lesson]()
+The [Data Lifecycle Lesson](https://doi.org/10.5281/zenodo.21435486) and exercises can help think about data stewardship roles and actions throughout a project.  
 ::::
 :::
+
+<br> 
  
- 
- 
+### Additional resources
+
+See the [Data Lifecycle](resources.qmd#Data Lifecycle) section of the Additional Resources page for more information.   
  
  

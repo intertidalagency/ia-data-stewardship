@@ -3,11 +3,9 @@ title: "Data Stewardship"
 format: html
 ---
     
-    
 ### What is it?
 <!-- <br> -->
-*Data stewardship is the actions involved in supporting, promoting, and guiding the use*
-*and reuse of data throughout the data lifecycle.*
+*Data stewardship is the actions involved in supporting, promoting, and guiding the use and reuse of data throughout the data lifecycle.*
 
 <br>
 

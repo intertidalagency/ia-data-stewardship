@@ -3,21 +3,52 @@ title: "Metadata"
 format: html
 ---
 
-### Types
+### What is it?
 
-### Standards & Formats
+*Metadata is data about data.  It describes the information and context needed to understand and interpret the data.*  
 
-
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
 Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is the link to the [Metadata Lesson]()
+The [Metadata Lesson](https://doi.org/10.5281/zenodo.21421775) and included exercise.
+
+The [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882). 
 ::::
 :::
  
+<br>
+
+### Common metadata standards in ocean science
+
+[Ecological Metadata Language (EML)](https://eml.ecoinformatics.org/)
+
+ - For ecological and environmental data of many types
+ - Widely used, tools in R to write it
  
+[ISO 19115](https://www.dcc.ac.uk/resources/metadata-standards/iso-19115) 
+
+ - For geographic information, primarily
+ - Mandated by the US Federal Government
+
+[Darwin Core](https://dwc.tdwg.org/)
+
+ - For biological observations and related info
+ - Implemented by repositories such as OBIS and GBIF
+
+[Climate & Forecast (CF)](https://cfconventions.org/)
+
+ - Built into NetCDF file format
+ 
+<br>
+
+### Additional resources
+
+See the [Metadata](resources.qmd#Metadata) section of the Additional Resources page for more information.  
+ 
+
  
  

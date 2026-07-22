@@ -3,17 +3,30 @@ title: "Data Licensing"
 format: html
 ---
 
-Text here about licensing. 
+### What is it? 
 
+*Data licenses contain the terms under which you can use someone else's data.*  
+
+<br>
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Slides
+Lesson Slides
 ::::
 ::::{.commentbox-body}
-This is the link to the [Data Licensing Lesson]()
+The [Data Sharing & Licensing Lesson](https://doi.org/10.5281/zenodo.21417761).
 ::::
 :::
  
- 
+<br>
+
+### Data Sharing spectrum
+
+![](./img/data-sharing-spectrum.png)
+
+<br>
+
+### Additional resources
+
+See the [Data Licensing](resources.qmd#Data Licensing) section of the Additional Resources page for more information. 
  
