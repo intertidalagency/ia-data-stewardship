@@ -1,6 +1,5 @@
 ---
 title: "Data Stewardship Glossary"
-date: 2025-09-22
 ---
 
 *This glossary is meant to serve as a useful reference. It is an evergreen document and will be updated and added to as often as necessary.*
