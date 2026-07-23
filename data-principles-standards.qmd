@@ -11,16 +11,20 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lesson
 ::::
 ::::{.commentbox-body}
-The [Data Principles & Standards Lesson](https://doi.org/10.5281/zenodo.21401791).
+
+ - [Data Principles & Standards Lesson](https://doi.org/10.5281/zenodo.21401791)
+
 ::::
 :::
  
 <br>
 
-### FAIR Principles
+### [FAIR Principles](https://doi.org/10.1038/sdata.2016.18)
+
+The FAIR Principles are focused on digital resources and data, especially machine-actionability, and include the following: 
 
  - Findable
  - Accessible
@@ -29,7 +33,9 @@ The [Data Principles & Standards Lesson](https://doi.org/10.5281/zenodo.21401791
 
 <br>
 
-### CARE Principles for Indigenous Data Governance
+### [CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-042)
+
+THe CARE Principles are focused on people and purpose, and include the following: 
 
  - Collective Benefit
  - Authority to control

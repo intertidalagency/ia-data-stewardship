@@ -10,11 +10,13 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lessons
 ::::
 ::::{.commentbox-body}
-The [DMP Lesson](https://doi.org/10.5281/zenodo.21421868) and exercise.  
-The [Data Ready for Action Lesson](https://doi.org/10.5281/zenodo.21421924) will assist in planning to make data fit for purpose.
+
+ - [DMP Lesson](https://doi.org/10.5281/zenodo.21421868) and exercise
+ - [Data Ready for Action Lesson](https://doi.org/10.5281/zenodo.21421924) 
+
 ::::
 :::
  
@@ -25,6 +27,17 @@ The [Data Ready for Action Lesson](https://doi.org/10.5281/zenodo.21421924) will
 A DMP is a formal document that outlines the data, code, and other products you will produce and how you will format, document, store, and preserve them both during and after the project
 
 DMPs are part of the technical documentation that supports your data stewardship goals, and can be related to project roadmaps, technical work plans, and data governance strategies.  
+
+<br>
+
+### Data fit for purpose
+
+Planning stewardship actions that will make data ready to meet your goals and address your "why" will result in data that is ready to be used.  
+Consider key questions like…
+
+ - Who is your data for and what do they need your data to do?
+ - What does success look like… for you, your team, and the community?
+ - What else could your data do?
 
 <br>
 

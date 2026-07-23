@@ -11,12 +11,14 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lessons
 ::::
 ::::{.commentbox-body}
-The [Metadata Lesson](https://doi.org/10.5281/zenodo.21421775) and included exercise.
 
-The [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882). 
+- [Metadata Basics Lesson](https://doi.org/10.5281/zenodo.21421775) and exercise
+
+- [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882)
+
 ::::
 :::
  

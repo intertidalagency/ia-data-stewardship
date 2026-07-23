@@ -7,7 +7,7 @@ The Ocean Data Stewardship Toolkit provides tools and resources to identify and 
 
 The toolkit (outlined below) consists of a collection of worksheets, checklists, considerations, and other materials that support critical ocean data stewardship activities.
 
-<br>
+<hr>
 
 ### [Toolkit Contents](https://doi.org/10.5281/zenodo.21397627)
 

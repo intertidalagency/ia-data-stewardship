@@ -11,14 +11,22 @@ format: html
   
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lesson
 ::::
 ::::{.commentbox-body}
-The [Data Lifecycle Lesson](https://doi.org/10.5281/zenodo.21435486) and exercises can help think about data stewardship roles and actions throughout a project.  
+
+ - [Data Lifecycle Lesson](https://doi.org/10.5281/zenodo.21435486) and exercises 
+ 
 ::::
 :::
 
 <br> 
+
+### How can understanding the data lifecycle help with data stewardship?
+
+Data stewardship roles and actions throughout a project can be refined and clarified by using the data lifecycle to structure planning and implementation of stewardship practices.     
+
+<br>
  
 ### Additional resources
 

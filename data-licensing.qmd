@@ -1,5 +1,5 @@
 ---
-title: "Data Licensing"
+title: "Data Sharing & Licensing"
 format: html
 ---
 
@@ -11,10 +11,12 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lesson
 ::::
 ::::{.commentbox-body}
-The [Data Sharing & Licensing Lesson](https://doi.org/10.5281/zenodo.21417761).
+
+ - [Data Sharing & Licensing Lesson](https://doi.org/10.5281/zenodo.21417761)
+
 ::::
 :::
  
@@ -28,5 +30,5 @@ The [Data Sharing & Licensing Lesson](https://doi.org/10.5281/zenodo.21417761).
 
 ### Additional resources
 
-See the [Data Licensing](resources.qmd#Data Licensing) section of the Additional Resources page for more information. 
+See the [Data Licensing](resources.qmd#Data Licensing) and [Data Sharing](resources.qmd#Data Sharing) sections of the Additional Resources page for more information. 
  

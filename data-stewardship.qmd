@@ -11,11 +11,13 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lesson
 ::::
 ::::{.commentbox-body}
-The [Data Stewardship Lesson](https://doi.org/10.5281/zenodo.21399253).  
-Please also see the accompanying "Defining your Why Worksheet" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).    
+ 
+ - [Data Stewardship Lesson](https://doi.org/10.5281/zenodo.21399253)  
+    - See also the accompanying "Defining your Why Worksheet" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).   
+       
 ::::
 :::
  

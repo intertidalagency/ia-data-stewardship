@@ -11,12 +11,14 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Lesson Slides
+Lessons
 ::::
 ::::{.commentbox-body}
-[Data Publishing Basics Lesson](https://doi.org/10.5281/zenodo.21421189)
 
-[Data Repositories Lesson](https://doi.org/10.5281/zenodo.21421310)
+ - [Data Publishing Basics Lesson](https://doi.org/10.5281/zenodo.21421189)
+
+ - [Data Repositories Lesson](https://doi.org/10.5281/zenodo.21421310)
+
 ::::
 :::
  
@@ -24,7 +26,7 @@ Lesson Slides
 
 ### TRUST Principles for data repositories
 
-The TRUST Principles are a set of guidelines developed to ensure that digital data repositories are reliable, sustainable, and useful over the long term.
+The TRUST Principles are a set of guidelines developed to ensure that digital data repositories are reliable, sustainable, and useful over the long term, and include the following: 
 
  - Transparency
  - Responsibility

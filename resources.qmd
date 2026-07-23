@@ -7,14 +7,14 @@ format: html
 
 ::: {.commentbox}
 ::::{.commentbox-header}
-Glossary of data stewardship terms
+Glossary of Data Stewardship terms
 ::::
 ::::{.commentbox-body}
 If you'd like definitions of some of the technical terms used on this site and more broadly in data stewardship, please consult the [glossary](glossary_r.qmd).    
 ::::
 :::
 
-<br>
+<hr>
 
 ### Code Management & Publishing
 
@@ -49,6 +49,12 @@ Tools for writing DMPs include
 
  - [FAIR Principles](https://www.go-fair.org/fair-principles/)
  - [CARE Principles](https://www.gida-global.org/careprinciples)
+
+<br>
+
+### Data Sharing
+
+ - Creative Commons' [Recommended Best Practices for Better Sharing of Climate Data](https://creativecommons.org/2024/01/29/recommended-best-practices-for-better-sharing-of-climate-data/)
 
 <br>
 

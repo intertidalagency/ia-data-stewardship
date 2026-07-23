@@ -7,7 +7,7 @@ format: html
 
 <br>
 
-### Build your data superpowers for lasting impact
+### Build your data stewardship superpowers for lasting impact
 
 Wherever you are on your data journey, we can help you connect your data to action. Learn how you can contribute to a more open, connected, and impactful future for ocean data from our experts in ocean data stewardship or on your own with our materials. Our core focus is to make data more useful, useable, and used to drive better decision making for the future of ocean sustainability and climate action.
 
@@ -30,11 +30,11 @@ Throughout our training, we will explore ways you can:
 
 ### Collaborative, virtual sessions guided by experts
 
-Our training sessions consists of six, 90-minute bi-weekly trainings along with off-week coworking sessions to connect with peers and focus on your own data projects. The sessions will be delivered by subject matter experts and feature guest speakers from various disciplines of data stewardship, governance, and strategy. Our collaborative coworking sessions provide an opportunity for you to broaden and enhance how stewardship practices apply to your data projects.
+Our training sessions are delivered by subject matter experts and feature guest speakers from various facets of data stewardship, governance, and strategy. Instructional sessions are complemented by collaborative coworking sessions that provide an opportunity to broaden understanding of topics and explore how stewardship practices apply to your data projects.
 
 <br> 
 
-### Have a question? Want to host a customized training? Don’t hesitate to reach out!
+### Have a question? Want to be notified of future trainings? 
 
-Contact our Program Coordinator, Mollie, at mollie@intertidal.agency with any questions!
+Don’t hesitate to reach out!  [Fill out this form to get in touch.]()  
 
