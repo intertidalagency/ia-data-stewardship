@@ -16,6 +16,7 @@ Lessons
 ::::{.commentbox-body}
 
 - [Metadata Basics Lesson](https://doi.org/10.5281/zenodo.21421775) and exercise
+  - [Recording of this lesson](https://youtu.be/NbwVUdHMCVk) (17 mins) as presented for [Openscapes](https://openscapes.org/) in 2025.
 
 - [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882)
 
