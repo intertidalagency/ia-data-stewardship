@@ -3,6 +3,8 @@ title: "Publishing Data in Repositories"
 format: html
 ---
 
+<hr>
+
 ### What is it?
 
 *Publishing data is the process of packaging up data and descriptive metadata, attaching a persistent identifier (e.g. DOI), and making available through a data repository (an entity that provides long-term storage and access to data).*   

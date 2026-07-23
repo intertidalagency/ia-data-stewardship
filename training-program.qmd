@@ -3,6 +3,8 @@ title: "Training Program"
 format: html
 ---
 
+<br>
+
 > Join us on our journey towards a better ocean by building your superpowers in ocean data stewardship.
 
 <br>
@@ -11,6 +13,7 @@ format: html
 
 Wherever you are on your data journey, we can help you connect your data to action. Learn how you can contribute to a more open, connected, and impactful future for ocean data from our experts in ocean data stewardship or on your own with our materials. Our core focus is to make data more useful, useable, and used to drive better decision making for the future of ocean sustainability and climate action.
 
+<hr>
 <br> 
 
 ### A curriculum designed with your data in mind

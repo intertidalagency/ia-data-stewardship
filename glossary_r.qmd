@@ -2,9 +2,11 @@
 title: "Data Stewardship Glossary"
 ---
 
+<br>
+
 *This glossary is meant to serve as a useful reference. It is an evergreen document and will be updated and added to as often as necessary.*
 
-<!-- <br> -->
+<hr>
 
 <!-- ## Table of Contents -->
 
@@ -237,7 +239,7 @@ A data collaborative structure where a third-party actor supports collaboration 
 
 <br>
 
-## Other Similar Glossaries 
+### Other Similar Glossaries 
 <!-- {#other-similar-glossaries} -->
 
 [FAIR Island](https://fairisland.org/toolkit/glossary/)

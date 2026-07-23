@@ -3,6 +3,8 @@ title: "Data Lifecycle"
 format: html
 ---
 
+<hr>
+
 ### What is it? 
 
 *These are the stages data often goes through during a project, but they are also how we think about data going from idea to impactful information.* 

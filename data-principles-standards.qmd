@@ -3,6 +3,8 @@ title: "Data Principles & Standards"
 format: html
 ---
 
+<hr>
+
 ### What are they?
 
 *Data principles guide the actions of managing and stewarding data to make data more reusable and well documented.* 

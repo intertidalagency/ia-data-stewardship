@@ -3,6 +3,8 @@ title: "Data Sharing & Licensing"
 format: html
 ---
 
+<hr>
+
 ### What is it? 
 
 *Data licenses contain the terms under which you can use someone else's data.*  

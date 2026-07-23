@@ -3,6 +3,8 @@ title: "Metadata"
 format: html
 ---
 
+<hr>
+
 ### What is it?
 
 *Metadata is data about data.  It describes the information and context needed to understand and interpret the data.*  

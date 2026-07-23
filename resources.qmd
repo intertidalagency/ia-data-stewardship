@@ -14,7 +14,7 @@ If you'd like definitions of some of the technical terms used on this site and m
 ::::
 :::
 
-<hr>
+<br>
 
 ### Code Management & Publishing
 
