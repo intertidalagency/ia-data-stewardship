@@ -11,6 +11,15 @@ Ocean data is critical for the science, innovation, and management we need for a
 
 Data stewardship is a proactive mindset that makes data actionable. Data stewards improve the value and impact of ocean data by practicing stewardship throughout the data lifecycle. By treating data as a community asset, ocean data stewards increase the reach of data beyond any single project and expand the body of knowledge available to everyone.
 
+<br>
+
+### Why is data stewardship important?  
+
+*TLDR: It saves time and money, and increases data impact.*  
+
+Data stewardship practices and actions ensure data quality and integrity, maximize reusability, support innovation, and increase transparency.  Data that are properly stewarded protect privacy where appropriate, foster ethical use and reuse, and compliance with regulations.  This is why proactive data stewardship is critical and cannot be the task of one person, but rather must be a shared goal across an entire organization.
+
+
 <hr>
 <br>
 
