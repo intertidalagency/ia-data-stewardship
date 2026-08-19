@@ -37,9 +37,13 @@ Our training sessions are delivered by subject matter experts and feature guest 
 
 <br> 
 
-### Stay in touch with us!
+### Train with us!
 
 Have a question? Want to be notified of future trainings? [Contact us about data stewardship.](https://forms.gle/jLG6dm1EBXGA2hhx8)  
 
+<br> 
 
-Want to hear more about what Intertidal does?  Subscribe to the [Intertidal Newsletter!](https://buttondown.email/intertidalagency)
+![](./img/oceandatastewardsticker.png)
+
+<br>
+

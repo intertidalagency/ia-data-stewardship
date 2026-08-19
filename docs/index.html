@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-18657570cbd770eceafa8c8ee49e96f7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -204,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#why-is-data-stewardship-important" id="toc-why-is-data-stewardship-important" class="nav-link active" data-scroll-target="#why-is-data-stewardship-important">Why is data stewardship important?</a></li>
-  <li><a href="#train-with-us" id="toc-train-with-us" class="nav-link" data-scroll-target="#train-with-us">Train with us!</a></li>
+  <li><a href="#stay-in-touch-with-us" id="toc-stay-in-touch-with-us" class="nav-link" data-scroll-target="#stay-in-touch-with-us">Stay in touch with us!</a></li>
   </ul>
 </nav>
 </nav>
@@ -246,9 +249,13 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <p><br></p>
 </section>
-<section id="train-with-us" class="level3">
-<h3 class="anchored" data-anchor-id="train-with-us">Train with us!</h3>
+<section id="stay-in-touch-with-us" class="level3">
+<h3 class="anchored" data-anchor-id="stay-in-touch-with-us">Stay in touch with us!</h3>
 <p>Intertidal Agency’s <a href="./training-program.html">Ocean Data Stewardship training program</a> seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action. Come join our community and build your data stewardship superpowers!</p>
+<p>Have a question or want to be notified of future trainings? <a href="https://forms.gle/jLG6dm1EBXGA2hhx8">Contact us about data stewardship.</a></p>
+<p>Want to hear more about what Intertidal does? Subscribe to the <a href="https://buttondown.email/intertidalagency">Intertidal Newsletter!</a></p>
+<p><br></p>
+<p><a href="./img/rememberthedatanudisticker.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="./img/rememberthedatanudisticker.png" class="img-fluid"></a></p>
 <p><br></p>
 
 
@@ -682,6 +689,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

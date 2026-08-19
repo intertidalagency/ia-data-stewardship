@@ -19,13 +19,19 @@ Data stewardship is a proactive mindset that makes data actionable. Data steward
 
 Data stewardship practices and actions ensure data quality and integrity, maximize reusability, support innovation, and increase transparency.  Data that are properly stewarded protect privacy where appropriate, foster ethical use and reuse, and compliance with regulations.  This is why proactive data stewardship is critical and cannot be the task of one person, but rather must be a shared goal across an entire organization.
 
-
 <hr>
 <br>
 
-### Train with us!
+### Stay in touch with us!
 
 Intertidal Agency's [Ocean Data Stewardship training program](training-program.qmd) seeks to build a global community of ocean data stewards who are active in making ocean data more reusable and used for action.  Come join our community and build your data stewardship superpowers!
 
+Have a question or want to be notified of future trainings? [Contact us about data stewardship.](https://forms.gle/jLG6dm1EBXGA2hhx8)  
+
+Want to hear more about what Intertidal does?  Subscribe to the [Intertidal Newsletter!](https://buttondown.email/intertidalagency)
+
 <br> 
 
+![](./img/rememberthedatanudisticker.png)
+
+<br>
