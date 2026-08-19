@@ -32,6 +32,6 @@ Data stewardship roles and actions throughout a project can be refined and clari
  
 ### Additional resources
 
-See the [Data Lifecycle](resources.qmd#Data Lifecycle) section of the Additional Resources page for more information.   
+See the [Data Lifecycle](resources.qmd#data-lifecycle) section of the Resources page for more information.   
  
  

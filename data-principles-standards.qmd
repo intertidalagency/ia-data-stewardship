@@ -48,5 +48,5 @@ THe CARE Principles are focused on people and purpose, and include the following
 
 ### Additional resources
 
-See the [Data Principles](resources.qmd#Data Principles) section of the Additional Resources page for more information.  
+See the [Data Principles](resources.qmd#data-principles) section of the Resources page for more information.  
  

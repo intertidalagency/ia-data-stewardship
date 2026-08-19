@@ -42,5 +42,5 @@ The TRUST Principles are a set of guidelines developed to ensure that digital da
 
 ### Additional resources
 
-See the [Repositories](resources.qmd#Repositories) section of the Additional Resources page for more information.    
+See the [Repositories](resources.qmd#repositories) section of the Resources page for more information.    
  

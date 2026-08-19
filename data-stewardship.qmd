@@ -47,4 +47,4 @@ When thinking about why you might practice data stewardship, consider
 
 ### Additional resources
 
-See the [Data Stewardship](resources.qmd#Data Stewardship) section of the Additional Resources page for more information.    
+See the [Data Stewardship](resources.qmd#data-stewardship) section of the Resources page for more information.    

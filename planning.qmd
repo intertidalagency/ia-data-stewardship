@@ -50,6 +50,6 @@ Software Management Plans are another important tool.  Please see the [Ocean Dat
 
 ### Additional resources
 
-See the [Data Management Plans](resources.qmd#Data Management Plans (DMPs)) section of the Additional Resources page for more information.  
+See the [Data Management Plans](resources.qmd#data-management-plans-dmps) section of the Resources page for more information.  
 
 

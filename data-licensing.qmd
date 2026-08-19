@@ -32,5 +32,5 @@ Lesson
 
 ### Additional resources
 
-See the [Data Licensing](resources.qmd#Data Licensing) and [Data Sharing](resources.qmd#Data Sharing) sections of the Additional Resources page for more information. 
+See the [Data Licensing](resources.qmd#data-licensing) and [Data Sharing](resources.qmd#data-sharing) sections of the Resources page for more information. 
  

@@ -52,7 +52,7 @@ Lessons
 
 ### Additional resources
 
-See the [Metadata](resources.qmd#Metadata) section of the Additional Resources page for more information.  
+See the [Metadata](resources.qmd#metadata) section of the Resources page for more information.  
  
 
  
