@@ -18,7 +18,7 @@ Lesson
 ::::{.commentbox-body}
  
  - [Data Stewardship Lesson](https://doi.org/10.5281/zenodo.21399253)  
-    - See also the accompanying "Defining your Why Worksheet" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).   
+    - See also the accompanying "Defining your Why Worksheet", "Stewardship Maturity Assessment", and "Stewardship Actions & Considerations for Software Management Plans (SMPs)" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).   
        
 ::::
 :::

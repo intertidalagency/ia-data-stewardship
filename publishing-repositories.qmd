@@ -21,6 +21,8 @@ Lessons
 
  - [Data Repositories Lesson](https://doi.org/10.5281/zenodo.21421310)
  
+  - See also the "Data Repository Considerations & Resources" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).
+ 
  - Zenodo Clinic developed for [Openscapes](https://openscapes.org/): [slides](https://docs.google.com/presentation/d/1oPqhpq8_v1CUIyOnh6iJA8VcJ9qZXFhmlmmym4jF1cA/) and [recording](https://youtu.be/iO5MFytA2B0) (25 mins)
 
 ::::

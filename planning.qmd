@@ -18,6 +18,7 @@ Lessons
 
  - [DMP Lesson](https://doi.org/10.5281/zenodo.21421868) and exercise
  - [Data Ready for Action Lesson](https://doi.org/10.5281/zenodo.21421924) 
+ - See also the "DMP Checklist" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).
 
 ::::
 :::

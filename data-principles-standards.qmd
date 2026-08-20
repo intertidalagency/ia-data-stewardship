@@ -18,6 +18,7 @@ Lesson
 ::::{.commentbox-body}
 
  - [Data Principles & Standards Lesson](https://doi.org/10.5281/zenodo.21401791)
+ - See also the "FAIR Assessment Tools - Overview and Considerations" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).
 
 ::::
 :::

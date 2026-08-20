@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "About Ocean Data Stewardship"
 format: html
 ---
 
 <br>
+
+### What is it?  
 
 Ocean data is critical for the science, innovation, and management we need for a livable planet, but too often data is not easily accessible or usable in a trustworthy way. Unlocking ocean data does not require a technology solution, especially when the global data landscape is rapidly changing.  Rather, the solution is ***supporting the people who*** apply expertise, judgment, and skill to ***connect data to action*** throughout the data lifecycle.  This is called ***ocean data stewardship***, and we think it's an essential superpower.
 
@@ -13,7 +15,7 @@ Data stewardship is a proactive mindset that makes data actionable. Data steward
 
 <br>
 
-### Why is data stewardship important?  
+### Why is it important?  
 
 *TLDR: It saves time and money, and increases data impact.*  
 

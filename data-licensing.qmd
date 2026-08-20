@@ -18,6 +18,7 @@ Lesson
 ::::{.commentbox-body}
 
  - [Data Sharing & Licensing Lesson](https://doi.org/10.5281/zenodo.21417761)
+ - See also the "Data Sharing Checklist" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).
 
 ::::
 :::
@@ -26,7 +27,7 @@ Lesson
 
 ### Data Sharing spectrum
 
-![](./img/data-sharing-spectrum.png)
+![](./img/data-sharing-spectrum.png){width=100%}
 
 <br>
 
