@@ -17,12 +17,12 @@ Lessons
 ::::
 ::::{.commentbox-body}
 
-- [Metadata Basics Lesson](https://doi.org/10.5281/zenodo.21421775) and exercise
-  - [Recording of this lesson](https://youtu.be/NbwVUdHMCVk) (17 mins) as presented for [Openscapes](https://openscapes.org/) in 2025.
+- [Metadata Basics Lesson](https://doi.org/10.5281/zenodo.21421775){target="_blank"} and exercise
+  - [Recording of this lesson](https://youtu.be/NbwVUdHMCVk){target="_blank"} (17 mins) as presented for [Openscapes](https://openscapes.org/){target="_blank"} in 2025.
 
-- [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882)
+- [Metadata for Data Discovery Lesson](https://doi.org/10.5281/zenodo.21417882){target="_blank"}
 
- - See also the "Metadata for Reusability Checklist" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627).
+ - See also the "Metadata for Reusability Checklist" in the [Ocean Data Stewardship Toolkit](https://doi.org/10.5281/zenodo.21397627){target="_blank"}.
 
 ::::
 :::

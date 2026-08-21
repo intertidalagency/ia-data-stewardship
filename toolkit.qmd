@@ -7,7 +7,7 @@ format: html
 
 The Ocean Data Stewardship Toolkit provides tools and resources to identify and communicate stewardship objectives, plan and document data projects using those objectives, share data effectively and ethically, and apply FAIR data practices to support data discoverability and reuse. 
 
-The toolkit (outlined below) consists of a collection of worksheets, checklists, considerations, and other materials that support critical ocean data stewardship activities.
+The toolkit (outlined below) consists of a collection of worksheets, checklists, considerations, and other materials that support critical ocean data stewardship activities. It is designed to be used alongside the lessons for each core topic to guide implementation of lesson content in your stewardship activities.  
 
 [Toolkit available for download here!](https://doi.org/10.5281/zenodo.21397627)
 

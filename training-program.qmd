@@ -25,7 +25,7 @@ Throughout our training, we will explore ways you can:
  - define why you practice data stewardship
  - maximize the reusability and resilience of your data
  - collect and attribute data responsibly
- -  prepare data for science, impact, and action
+ - prepare data for science, impact, and action
  - create a culture of collaborative data stewardship
  - build a supportive data community to learn from and grow with
 
